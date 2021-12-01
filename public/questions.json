@@ -1,0 +1,3290 @@
+[
+    {
+    "id":0,
+    "soort": "G",
+    "vraag":"Albert Einstein was geboren in Oostenrijk?",
+    "antwoord": "waar"
+    },
+    {
+    "id":1,
+    "soort": "G",
+    "vraag":"Van welk land was Groenland tot 1981 een kolonie?",
+    "antwoord": "Denemarken"
+    },
+    {
+    "id":2,
+    "soort": "A",
+    "vraag":"Noord-Korea is kleiner dan Zuid-korea",
+    "antwoord": "Niet waar"
+    },
+    {
+    "id":3,
+    "soort": "C",
+    "vraag":"Kogelstoten is een atletieksport",
+    "antwoord": "waar"
+    },
+    {
+    "id":4,
+    "soort": "C",
+    "vraag":"Eminem heeft ooit een duet gezongen met Elton John",
+    "antwoord": "waar"
+    },
+    {
+    "id":5,
+    "soort": "A",
+    "vraag":"Beijing ligt in het zuiden van China",
+    "antwoord": "niet waar"
+    },
+    {
+    "id":6,
+    "soort": "A",
+    "vraag":"De europese vlag heeft 25 sterren",
+    "antwoord": "niet waar"
+    },
+    {
+    "id":7,
+    "soort": "N",
+    "vraag":"Het bloed van een slak is groen",
+    "antwoord": "waar"
+    },
+    {
+    "id":8,
+    "soort": "A",
+    "vraag":"Er zijn 7 rode strepen op de vlag van de USA",
+    "antwoord": "waar"
+    },
+    {
+    "id":9,
+    "soort": "N",
+    "vraag":"Een dolfijn heeft ongeveer 60 tanden",
+    "antwoord": "niet waar"
+    },
+    {
+    "id":10,
+    "soort": "N",
+    "vraag":"Zeesterren zijn nachtdieren",
+    "antwoord": "waar"
+    },
+    {
+    "id":11,
+    "soort": "C",
+    "vraag":"Van welke taal komen de woorden ‘Hakuna Matata’?",
+    "antwoord": "Swahili"
+    },
+    {
+    "id":12,
+    "soort": "C",
+    "vraag":"Wat was de eerste langspeelfilm van Disney-Pixar?",
+    "antwoord": "Toy Story"
+    },
+    {
+    "id":13,
+    "soort": "C",
+    "vraag":"Van welk ras van hond was de hond in Up?",
+    "antwoord": "Dobberman"
+    },
+    {
+    "id":14,
+    "soort": "C",
+    "vraag":"Het bekende Disney kasteel komt uit welke fim?",
+    "antwoord": "Doornroosje"
+    },
+    {
+    "id":15,
+    "soort": "C",
+    "vraag":"Het konijn van Alice In wonderland had een uurwerk vast, en wat nog?",
+    "antwoord": "Paraplu"
+    },
+    {
+    "id":16,
+    "soort": "C",
+    "vraag":"Aan welke kant had Scar van de lion king zijn litteken?",
+    "antwoord": "Links"
+    },
+    {
+    "id":17,
+    "soort": "G",
+    "vraag":"Welk bekend schilderij had Napoleon is zijn slaapkamer",
+    "antwoord": "de Mona Lisa"
+    },
+    {
+    "id":18,
+    "soort": "G",
+    "vraag":"In welke eeuw begon de Renaissance?",
+    "antwoord": "14de eeuw"
+    },
+    {
+    "id":19,
+    "soort": "G",
+    "vraag":"Welke Russische staatsman heete eigenlijk Dzoegaswili?",
+    "antwoord": "Stalin"
+    },
+    {
+    "id":20,
+    "soort": "G",
+    "vraag":"Welke munteenheid is het oudst en nog steed in gebruik?",
+    "antwoord": "Pound"
+    },
+    {
+    "id":21,
+    "soort": "G",
+    "vraag":"In welke eeuw was de zwarte dood (plaag) het actiefste?",
+    "antwoord": "14de eeuw"
+    },
+    {
+    "id":22,
+    "soort": "G",
+    "vraag":"Wie was de dodelijkste dictator ter wereld?",
+    "antwoord": "Mao"
+    },
+    {
+    "id":23,
+    "soort": "G",
+    "vraag":"Hoeveel vrouwen had Henry VIII (Engeland)?",
+    "antwoord": "6"
+    },
+    {
+    "id":24,
+    "soort": "G",
+    "vraag":"In welke stad is de Titanic gebouwd",
+    "antwoord": "Belfast"
+    },
+    {
+    "id":25,
+    "soort": "G",
+    "vraag":"Welk rijk, op hun hoogtepunt, is het grootst?",
+    "antwoord": "Mongoolse rijk"
+    },
+    {
+    "id":26,
+    "soort": "C",
+    "vraag":"In welk europees land is Bruce Willis geboren?",
+    "antwoord": "Duitsland"
+    },
+    {
+    "id":27,
+    "soort": "C",
+    "vraag":"Hoe snel moest de auto van de film 'Back to the future' rijden om te kunnen tijdreisen?",
+    "antwoord": "88mph / 142 km/u"
+    },
+    {
+    "id":28,
+    "soort": "C",
+    "vraag":"Hoe heet de 3de film in de James Bond reeks?",
+    "antwoord": "Goldfinger"
+    },
+    {
+    "id":29,
+    "soort": "C",
+    "vraag":"Wat is de eerste James Bond film waar Daniel Craig in speelde",
+    "antwoord": "Quantum of Solace"
+    },
+    {
+    "id":30,
+    "soort": "C",
+    "vraag":"Welke nationaliteit heeft liam Neelson",
+    "antwoord": "Iers"
+    },
+    {
+    "id":31,
+    "soort": "C",
+    "vraag":"Welk karakter sprak het eerst in Star Wars: A new hope?",
+    "antwoord": "C3PO"
+    },
+    {
+    "id":32,
+    "soort": "C",
+    "vraag":"Welke film kreeg als eerst de titel 'Blockbuster' ?",
+    "antwoord": "Jaws"
+    },
+    {
+    "id":33,
+    "soort": "C",
+    "vraag":"Welke bekende alien kwam voor in star wars?",
+    "antwoord": "E.T"
+    },
+    {
+    "id":34,
+    "soort": "A",
+    "vraag":"De eifeltoren was origineel bedoeld voor welke stad?",
+    "antwoord": "Barcelona"
+    },
+    {
+    "id":35,
+    "soort": "C",
+    "vraag":"Wie speelde de mannelijke hoofrol in de film 'Nothing Hill'",
+    "antwoord": "Hugh Grant"
+    },
+    {
+    "id":36,
+    "soort": "A",
+    "vraag":"Welk continent is het plastste?",
+    "antwoord": "Oceanie"
+    },
+    {
+    "id":37,
+    "soort": "A",
+    "vraag":"Welk land heeft de langste kustlijn?",
+    "antwoord": "Canada"
+    },
+    {
+    "id":38,
+    "soort": "A",
+    "vraag":"Wat is de hoofdstad van Australië?",
+    "antwoord": "Canberra"
+    },
+    {
+    "id":39,
+    "soort": "A",
+    "vraag":"Welk land heeft 3 hoofdsteden?",
+    "antwoord": "Zuid-afrika"
+    },
+    {
+    "id":40,
+    "soort": "A",
+    "vraag":"Welke stad heeft het meeste inwoners?",
+    "antwoord": "Tokio"
+    },
+    {
+    "id":41,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van zwitserland",
+    "antwoord": "Geen"
+    },
+    {
+    "id":42,
+    "soort": "C",
+    "vraag":"Welk land is het enige dat in elke wereld het kampioenschap voetbal heeft meegespeeld?",
+    "antwoord": "Brazilie"
+    },
+    {
+    "id":43,
+    "soort": "C",
+    "vraag":"Van welk land is voetbal afkomstig?",
+    "antwoord": "Groot-Brittannië"
+    },
+    {
+    "id":44,
+    "soort": "C",
+    "vraag":"Hoeveel bowling kegels zijn er op een baan?",
+    "antwoord": "10"
+    },
+    {
+    "id":45,
+    "soort": "C",
+    "vraag":"Wat is de nationale sport van Japan?",
+    "antwoord": "Sumo(worstelen)"
+    },
+    {
+    "id":46,
+    "soort": "C",
+    "vraag":"Hoeveel vakjes telt een schaakbord?",
+    "antwoord": "64"
+    },
+    {
+    "id":47,
+    "soort": "C",
+    "vraag":"Welke europese voetbalploeg word ook de 'haantjes' genoemt?",
+    "antwoord": "Frankrijk"
+    },
+    {
+    "id":48,
+    "soort": "C",
+    "vraag":"Hoeveel spelers telt een basketbalploeg?",
+    "antwoord": "5"
+    },
+    {
+    "id":49,
+    "soort": "C",
+    "vraag":"Van welk land komt de atleet Usain bolt?",
+    "antwoord": "Jamaica"
+    },
+    {
+    "id":50,
+    "soort": "C",
+    "vraag":"In welk land light hoofdkwartier van de internationale olympische commissie?",
+    "antwoord": "Zwitserland"
+    },
+    {
+    "id":51,
+    "soort": "W",
+    "vraag":"Welk metaal heeft als chemisch symbool Ag?",
+    "antwoord": "Zilver"
+    },
+    {
+    "id":52,
+    "soort": "W",
+    "vraag":"Welke nationaliteit had de wetenschapper Marie Curie?",
+    "antwoord": "Pools"
+    },
+    {
+    "id":53,
+    "soort": "W",
+    "vraag":"Welke bloedgroep kan aan alle andere bloedgroepen bloed geven?",
+    "antwoord": "O"
+    },
+    {
+    "id":54,
+    "soort": "W",
+    "vraag":"Hoe heet het toestel waarmee men radioactiviteit mee kan meten?",
+    "antwoord": "Rutherteller"
+    },
+    {
+    "id":55,
+    "soort": "W",
+    "vraag":"Wie heeft de natuurlijke radioactiveit eerst gevonden?",
+    "antwoord": "Henri Becquerel"
+    },
+    {
+    "id":56,
+    "soort": "W",
+    "vraag":"Noord-west komt overeen met hoeveel graden op het kompas?",
+    "antwoord": "315 graden"
+    },
+    {
+    "id":57,
+    "soort": "W",
+    "vraag":"Welk instrument meet de druk?",
+    "antwoord": "Manometer"
+    },
+    {
+    "id":58,
+    "soort": "C",
+    "vraag":"Welke nationaliteit had Mozart?",
+    "antwoord": "Oostenrijks"
+    },
+    {
+    "id":59,
+    "soort": "C",
+    "vraag":"In welk jaar stierf Elvis Presly",
+    "antwoord": "1977"
+    },
+    {
+    "id":60,
+    "soort": "C",
+    "vraag":"Wat is de echt voornaam van Madonna?",
+    "antwoord": "Madonna"
+    },
+    {
+    "id":61,
+    "soort": "C",
+    "vraag":"Uit welke land kwam de band A-HA?",
+    "antwoord": "Noorwegen"
+    },
+    {
+    "id":62,
+    "soort": "C",
+    "vraag":"Welke ariest heeft als bijnaam 'The boss' ?",
+    "antwoord": "Bruce Springsteen"
+    },
+    {
+    "id":63,
+    "soort": "C",
+    "vraag":"Wat was de voornaam van de componist 'Vivaldi' ?",
+    "antwoord": "Franseco"
+    },
+    {
+    "id":64,
+    "soort": "C",
+    "vraag":"Hoeveel snaren heeft een viool",
+    "antwoord": "4"
+    },
+    {
+    "id":65,
+    "soort": "C",
+    "vraag":"Welke kunstenaar had een rode en blauwe periode?",
+    "antwoord": "Pablo Picasso"
+    },
+    {
+    "id":66,
+    "soort": "C",
+    "vraag":"Wie schilderde het laatste avondmaal ?",
+    "antwoord": "Leonardo Da Vinci"
+    },
+    {
+    "id":67,
+    "soort": "C",
+    "vraag":"In welke italaanse stad staat het laatste avondmaal ?",
+    "antwoord": "Milaan"
+    },
+    {
+    "id":68,
+    "soort": "C",
+    "vraag":"In welke italiaanse stad kan je het standbeeld 'David', van Michaelangelo, zien?",
+    "antwoord": "Florence"
+    },
+    {
+    "id":69,
+    "soort": "W",
+    "vraag":"Welke tint heeft de kleur Chartreuse?",
+    "antwoord": "groen"
+    },
+    {
+    "id":70,
+    "soort": "C",
+    "vraag":"Hoeveel schilderijen heeft Vincent Van Gogh zelf verkocht?",
+    "antwoord": "1"
+    },
+    {
+    "id":71,
+    "soort": "C",
+    "vraag":"Hoeveel keren werd de 'Mona Lisa' gestolen?",
+    "antwoord": "1"
+    },
+    {
+    "id":72,
+    "soort": "C",
+    "vraag":"Picasso word gezien als de stichter van welke kunststijl?",
+    "antwoord": "Cubisme"
+    },
+    {
+    "id":73,
+    "soort": "C",
+    "vraag":"Pop art oorsprongt van welke wereldstad?",
+    "antwoord": "London"
+    },
+    {
+    "id":74,
+    "soort": "N",
+    "vraag":"Hoeveel bulten heeft een dromedaris",
+    "antwoord": "1"
+    },
+    {
+    "id":75,
+    "soort": "N",
+    "vraag":"Hoeveel soorten olifanten zijn er?",
+    "antwoord": "6"
+    },
+    {
+    "id":76,
+    "soort": "N",
+    "vraag":"Hoeveel ogen heeft een honingbij?",
+    "antwoord": "5"
+    },
+    {
+    "id":77,
+    "soort": "N",
+    "vraag":"Wat is het 2de snelste dier op land?",
+    "antwoord": "Antelope"
+    },
+    {
+    "id":78,
+    "soort": "N",
+    "vraag":"Wat is het nationale dier van schotland?",
+    "antwoord": "Eenhoorn"
+    },
+    {
+    "id":79,
+    "soort": "N",
+    "vraag":"Welk land heeft grootste populatie van giftige slangen?",
+    "antwoord": "Australië "
+    },
+    {
+    "id":80,
+    "soort": "N",
+    "vraag":"Hoeveel poten heeft een vlinder?",
+    "antwoord": "6"
+    },
+    {
+    "id":81,
+    "soort": "N",
+    "vraag":"Van welk dier komt de stof cashmere?",
+    "antwoord": "(Indisch) schaap"
+    },
+    {
+    "id":82,
+    "soort": "N",
+    "vraag":"Welke slang maakt een nest?",
+    "antwoord": "King Cobra"
+    },
+    {
+    "id":83,
+    "soort": "W",
+    "vraag":"In welk jaar werd het allereerste model van de iPhone uitgebracht?",
+    "antwoord": "2007"
+    },
+    {
+    "id":84,
+    "soort": "W",
+    "vraag":"Hoeveel bits zitten er in 1 byte",
+    "antwoord": "8"
+    },
+    {
+    "id":85,
+    "soort": "W",
+    "vraag":"Wie was de eerste vrouw die een Nobelprijs won?",
+    "antwoord": "Marie Curie"
+    },
+    {
+    "id":86,
+    "soort": "W",
+    "vraag":"Welk deel van het atoom heeft geen elektrische lading?",
+    "antwoord": "Neutron"
+    },
+    {
+    "id":87,
+    "soort": "W",
+    "vraag":"Wat is het symbool voor kalium?",
+    "antwoord": "k"
+    },
+    {
+    "id":88,
+    "soort": "W",
+    "vraag":"Waarvan is meteorologie de studie?",
+    "antwoord": "Het weer"
+    },
+    {
+    "id":89,
+    "soort": "W",
+    "vraag":"Wat is de heetste planeet in het zonnestelsel?",
+    "antwoord": "Venus"
+    },
+    {
+    "id":90,
+    "soort": "W",
+    "vraag":"Welke natuurramp wordt gemeten met een schaal van Richter?",
+    "antwoord": "Aardbevingen"
+    },
+    {
+    "id":91,
+    "soort": "N",
+    "vraag":"In welke dieren komen parels voor?",
+    "antwoord": "Oesters"
+    },
+    {
+    "id":92,
+    "soort": "W",
+    "vraag":"Welke planeet heeft de meeste zwaartekracht?",
+    "antwoord": "Jupiter"
+    },
+    {
+    "id":93,
+    "soort": "W",
+    "vraag":"Hoeveel zuurstofmoleculen heeft ozon?",
+    "antwoord": "3"
+    },
+    {
+    "id":94,
+    "soort": "C",
+    "vraag":"Welke Avenger is de enige die de Hulk kan kalmeren?",
+    "antwoord": "Black Widow"
+    },
+    {
+    "id":95,
+    "soort": "C",
+    "vraag":"Hoe heet de butler van Batman?",
+    "antwoord": "Alfred"
+    },
+    {
+    "id":96,
+    "soort": "C",
+    "vraag":"In hoeveel films speelde Sean Connery James Bond?",
+    "antwoord": "7"
+    },
+    {
+    "id":97,
+    "soort": "C",
+    "vraag":"Welke Indiana Jones-film werd in 1984 uitgebracht?",
+    "antwoord": "Indiana Jones and the Temple of Doom"
+    },
+    {
+    "id":98,
+    "soort": "C",
+    "vraag":"Welk stripfiguur leeft in een ananas onder de zee?",
+    "antwoord": "Spongebob Squarepants"
+    },
+    {
+    "id":99,
+    "soort": "C",
+    "vraag":"Welke acteur speelde in de films 'Face Off' en 'Ghost Rider'?",
+    "antwoord": "Nicholas Cage"
+    },
+    {
+    "id":100,
+    "soort": "C",
+    "vraag":"Wie speelde Wolverine?",
+    "antwoord": "Hugh Jackman"
+    },
+    {
+    "id":101,
+    "soort": "C",
+    "vraag":"In welk jaar zette Usain Bolt zijn wereldrecord op de 100 meter in 9,58 seconden?",
+    "antwoord": "2009"
+    },
+    {
+    "id":102,
+    "soort": "C",
+    "vraag":"Welke show is de meest winstgevende productie ooit op Broadway?",
+    "antwoord": "The Lion King"
+    },
+    {
+    "id":103,
+    "soort": "N",
+    "vraag":"Welke kleur heeft de huid van een ijsbeer onder hun witte vacht?",
+    "antwoord": "zwart"
+    },
+    {
+    "id":104,
+    "soort": "C",
+    "vraag":"Wie wordt vaak gecrediteerd met het maken van 's werelds eerste auto?",
+    "antwoord": "Karl Benz"
+    },
+    {
+    "id":105,
+    "soort": "C",
+    "vraag":"Welk dier is te zien op het Porsche-logo?",
+    "antwoord": "paard"
+    },
+    {
+    "id":106,
+    "soort": "C",
+    "vraag":"Welk bedrijf bezit Bugatti, Lamborghini. Audi, Porsche en Ducati?",
+    "antwoord": "Volkwagen"
+    },
+    {
+    "id":107,
+    "soort": "C",
+    "vraag":"Welk land won de allereerste FIFA World Cup in 1930?",
+    "antwoord": "Uruguay"
+    },
+    {
+    "id":108,
+    "soort": "C",
+    "vraag":"In welk jaar werd het allereerste Wimbledon-kampioenschap gehouden?",
+    "antwoord": "1877"
+    },
+    {
+    "id":109,
+    "soort": "C",
+    "vraag":"Welke racer heeft het record voor de meeste Grand Prix-overwinningen?",
+    "antwoord": "Michael Schumacher"
+    },
+    {
+    "id":110,
+    "soort": "C",
+    "vraag":"Welke bokser stond bekend als 'The Greatest' en 'The People's Champion'?",
+    "antwoord": "Muhammad Ali"
+    },
+    {
+    "id":111,
+    "soort": "C",
+    "vraag":"WIe speelde de vrouwelijke hoofdrol in de film 'Pretty Woman'?",
+    "antwoord": "Julia Roberts"
+    },
+    {
+    "id":112,
+    "soort": "N",
+    "vraag":"Wat is het belangrijkste ingrediënt in hummus?",
+    "antwoord": "Kikkererwten"
+    },
+    {
+    "id":113,
+    "soort": "N",
+    "vraag":"Welk land produceert de meeste koffie ter wereld?",
+    "antwoord": "Brazillie"
+    },
+    {
+    "id":114,
+    "soort": "N",
+    "vraag":"Welk land heeft thee uitgevonden?",
+    "antwoord": "China"
+    },
+    {
+    "id":115,
+    "soort": "A",
+    "vraag":"Wat is het nationale gerecht van Spanje?",
+    "antwoord": "Paella"
+    },
+    {
+    "id":116,
+    "soort": "A",
+    "vraag":"Welke Europese natie zou hotdogs hebben uitgevonden?",
+    "antwoord": "Duitsland"
+    },
+    {
+    "id":117,
+    "soort": "W",
+    "vraag":"Welk menslijk orgaan heeft vier kamers?",
+    "antwoord": "het hart"
+    },
+    {
+    "id":118,
+    "soort": "W",
+    "vraag":"Wat voor soort cellen bevinden zich in de hersenen?",
+    "antwoord": "Neurons"
+    },
+    {
+    "id":119,
+    "soort": "W",
+    "vraag":"Zonder welk bot worden baby's geboren?",
+    "antwoord": "knee caps"
+    },
+    {
+    "id":120,
+    "soort": "W",
+    "vraag":"Hoeveel procent van ons lichaam bestaat uit water?",
+    "antwoord": "60% - 65% ???"
+    },
+    {
+    "id":121,
+    "soort": "W",
+    "vraag":"Van welk element wordt gezegd dat het botten sterk houdt?",
+    "antwoord": "Calcium"
+    },
+    {
+    "id":122,
+    "soort": "A",
+    "vraag":"Welke Amerikaanse staat is de grootste (per gebied)?",
+    "antwoord": "Alaska"
+    },
+    {
+    "id":123,
+    "soort": "A",
+    "vraag":"Welke twee landen delen de langste internationale grens?",
+    "antwoord": "Canada en de verenigde staten"
+    },
+    {
+    "id":124,
+    "soort": "A",
+    "vraag":"Wat is het kleinste land ter wereld?",
+    "antwoord": "Vaticaan stad"
+    },
+    {
+    "id":125,
+    "soort": "A",
+    "vraag":"Welke van de zeven wonderen bevindt zich in Egypte?",
+    "antwoord": "Piramides van Giza"
+    },
+    {
+    "id":126,
+    "soort": "A",
+    "vraag":"Wat is de hoofdstad van Nieuw-Zeeland?",
+    "antwoord": "Wellington"
+    },
+    {
+    "id":127,
+    "soort": "A",
+    "vraag":"Welke woestijn is de grootste ter wereld?",
+    "antwoord": "de sahara (of antartica)"
+    },
+    {
+    "id":128,
+    "soort": "A",
+    "vraag":"Wat is de naam van de langste rivier van de wereld?",
+    "antwoord": "De nijl"
+    },
+    {
+    "id":129,
+    "soort": "A",
+    "vraag":"Wat is de naam van de tweede langste rivier?",
+    "antwoord": "De Amazone"
+    },
+    {
+    "id":130,
+    "soort": "A",
+    "vraag":"In welke zee mond de nijl",
+    "antwoord": "Middellandse Zee"
+    },
+    {
+    "id":131,
+    "soort": "A",
+    "vraag":"Hoe heete de romeinen de Middelandse Zee",
+    "antwoord": "Mare Nostrum"
+    },
+    {
+    "id":132,
+    "soort": "G",
+    "vraag":"Wat is de naam die fungeerde als de officiële naam van het Romeinse Rijk?",
+    "antwoord": "Senātus Populusque Rōmānus of SPQR"
+    },
+    {
+    "id":133,
+    "soort": "G",
+    "vraag":"Hoe heette de eerste keizer van het romeinse rijk?",
+    "antwoord": "Caesar Augustus"
+    },
+    {
+    "id":134,
+    "soort": "G",
+    "vraag":"Hoe heette de laatste keizer van het romeinse rijk?",
+    "antwoord": "Romulus Augustulus"
+    },
+    {
+    "id":135,
+    "soort": "G",
+    "vraag":"Hoe heette de eerste tsar van Rusland?",
+    "antwoord": "Ivan de verschikkelijke"
+    },
+    {
+    "id":136,
+    "soort": "A",
+    "vraag":"In welke stad in India vind je de Taj Mahal?",
+    "antwoord": "Agra"
+    },
+    {
+    "id":137,
+    "soort": "A",
+    "vraag":"Uit hoeveel piramides bestaan de piramides van Giza?",
+    "antwoord": "3"
+    },
+    {
+    "id":138,
+    "soort": "G",
+    "vraag":"Met welke romeinse keizer was Cleopatra vrienden?",
+    "antwoord": "Julius Caesar"
+    },
+    {
+    "id":139,
+    "soort": "G",
+    "vraag":"In welk land is Adolf Hitler geboren?",
+    "antwoord": "Oostenrijk"
+    },
+    {
+    "id":140,
+    "soort": "G",
+    "vraag":"In welke stad werd John F. Kennedy vermoord?",
+    "antwoord": "Dallas"
+    },
+    {
+    "id":141,
+    "soort": "G",
+    "vraag":"Welke beroemde veldslag vond op zondag 18juni 1815 plaats?",
+    "antwoord": "De slag bij Waterloo"
+    },
+    {
+    "id":143,
+    "soort": "C",
+    "vraag":"Wat was de naam van de rockband gevormd door Jimmy Page?",
+    "antwoord": "Led Zeppelin"
+    },
+    {
+    "id":144,
+    "soort": "C",
+    "vraag":"In welk land is AC/DC ontstaan?",
+    "antwoord": "Australië"
+    },
+    {
+    "id":145,
+    "soort": "C",
+    "vraag":"In welk muziekgenre begon Taylor Swift?",
+    "antwoord": "Country"
+    },
+    {
+    "id":146,
+    "soort": "C",
+    "vraag":"Met welke muzikale legende is Jay-Z getrouwd?",
+    "antwoord": "Beyoncé"
+    },
+    {
+    "id":147,
+    "soort": "G",
+    "vraag":"Wat is de naam van het huis van de Griekse goden?",
+    "antwoord": "Olympus"
+    },
+    {
+    "id":148,
+    "soort": "G",
+    "vraag":"De zwakte van welke mythologische figuur was de hiel?",
+    "antwoord": "Achilles"
+    },
+    {
+    "id":149,
+    "soort": "G",
+    "vraag":"Wie was de boodschapper van de goden?",
+    "antwoord": "Hermes"
+    },
+    {
+    "id":150,
+    "soort": "G",
+    "vraag":"Van welke God was Thor de zoon?",
+    "antwoord": "Odin"
+    },
+    {
+    "id":151,
+    "soort": "G",
+    "vraag":"Wat was de naam van de Egyptische god van de zon?",
+    "antwoord": "Ra"
+    },
+    {
+    "id":152,
+    "soort": "G",
+    "vraag":"Anubis, de God van de Dood, had het hoofd van een...",
+    "antwoord": " Jakhals (wolf/hond)"
+    },
+    {
+    "id":153,
+    "soort": "G",
+    "vraag":"Set gooit Osiris in welke rivier, nadat hij hem in een kist heeft gelokt?",
+    "antwoord": "De Nijl"
+    },
+    {
+    "id":154,
+    "soort": "C",
+    "vraag":"Welke Deense auteur wordt door velen beschouwd als de meest productieve sprookjesschrijver?",
+    "antwoord": "Hans Christian Andersen"
+    },
+    {
+    "id":155,
+    "soort": "C",
+    "vraag":"Wie is de schrijver van 'Merchant of Venice'?",
+    "antwoord": "William Shakespeare"
+    },
+    {
+    "id":156,
+    "soort": "C",
+    "vraag":"Door welke schrijver is 'Adventure of Sherlock Holmes' geschreven?",
+    "antwoord": "Arthur Conan Doyle"
+    },
+    {
+    "id":157,
+    "soort": "C",
+    "vraag":"Hoe heet het vierde boek in de Harry Potter-reeks?",
+    "antwoord": "Harry Potter en de Vuurbeker"
+    },
+    {
+    "id":158,
+    "soort": "C",
+    "vraag":"Door welke auteur is The Hunger Games-serie geschreven?",
+    "antwoord": "Suzanne Collins"
+    },
+    {
+    "id":159,
+    "soort": "C",
+    "vraag":"Door wie is het boek 'Da Vinci Code' geschreven?",
+    "antwoord": "Dan Brown"
+    },
+    {
+    "id":160,
+    "soort": "C",
+    "vraag":"De Amerikaanse ontwerper, geboren in 1939 als Ralph Lifshitz, is beter bekend als wat?",
+    "antwoord": "Ralph Lauren"
+    },
+    {
+    "id":161,
+    "soort": "C",
+    "vraag":"Uit welk land kwam de modeontwerper, Gianni Versace?",
+    "antwoord": "Italië"
+    },
+    {
+    "id":162,
+    "soort": "G",
+    "vraag":"Wanneer is het bedrijf Nike opgericht?",
+    "antwoord": "1971"
+    },
+    {
+    "id":163,
+    "soort": "C",
+    "vraag":"Welk dier staat op het logo van Levi's?",
+    "antwoord": "een paard"
+    },
+    {
+    "id":164,
+    "soort": "A",
+    "vraag":"Wat is de naam van het hoogste gebouw ter wereld?",
+    "antwoord": "Burj Khalifa"
+    },
+    {
+    "id":165,
+    "soort": "G",
+    "vraag":"Wie heeft het Sydney Opera House ontworpen?",
+    "antwoord": "Jorn Utzon"
+    },
+    {
+    "id":166,
+    "soort": "G",
+    "vraag":"Uit welk Afrikaans land kwam leider en politiek icoon Nelson Mandela?",
+    "antwoord": "Zuid-Afrika"
+    },
+    {
+    "id":167,
+    "soort": "G",
+    "vraag":"Waar staat de grootste politieke partij in Zuid-Afrika, het ANC, voor?",
+    "antwoord": "Afrikaans Nationaal Congres"
+    },
+    {
+    "id":168,
+    "soort": "G",
+    "vraag":"De Eerste Wereldoorlog begon met de dood van aartshertog Franz Ferdinand, van welk land?",
+    "antwoord": "Oostenrijk"
+    },
+    {
+    "id":169,
+    "soort": "G",
+    "vraag":"Wie is de langstzittende monarch van het Verenigd Koninkrijk?",
+    "antwoord": "Koningin Elizabeth II"
+    },
+    {
+    "id":170,
+    "soort": "N",
+    "vraag":" Hoe lang duurt de draagtijd van een Afrikaanse olifant? (in maanden)",
+    "antwoord": "22"
+    },
+    {
+    "id":171,
+    "soort": "N",
+    "vraag":"Wat is de wetenschappelijke naam van een wolf?",
+    "antwoord": "Canis lupus"
+    },
+    {
+    "id":172,
+    "soort": "N",
+    "vraag":"Welk zoogdier heeft geen stembanden?",
+    "antwoord": "Giraf"
+    },
+    {
+    "id":173,
+    "soort": "N",
+    "vraag":"Wat is het snelste landdier ter wereld?",
+    "antwoord": "Cheeta"
+    },
+    {
+    "id":174,
+    "soort": "N",
+    "vraag":"Welk dier symboliseert geluk in Europa?",
+    "antwoord": "Een Lieveheersbeestje"
+    },
+    {
+    "id":175,
+    "soort": "N",
+    "vraag":"Wat is de benaming van een groep herten of wolven?",
+    "antwoord": "Een roedel"
+    },
+    {
+    "id":176,
+    "soort": "N",
+    "vraag":"Wat is de benaming van een groep vissen?",
+    "antwoord": "Een school"
+    },
+    {
+    "id":177,
+    "soort": "N",
+    "vraag":"Wat is de benaming van een groep duiven, eenden of ganzen?",
+    "antwoord": "Een vlucht"
+    },
+    {
+    "id":178,
+    "soort": "N",
+    "vraag":"Wat is de benaming van een groep vogels, bijen of vleermuizen?",
+    "antwoord": "Een zwerm"
+    },
+    {
+    "id":179,
+    "soort": "N",
+    "vraag":"Wat is de benaming van een groep apen of beren?",
+    "antwoord": "Een familie"
+    },
+    {
+    "id":180,
+    "soort": "N",
+    "vraag":"Hoeveel harten heeft een octopus?",
+    "antwoord": "3"
+    },
+    {
+    "id":181,
+    "soort": "W",
+    "vraag":"Van welk bedrijf is Bill Gates de oprichter?",
+    "antwoord": "Microsoft"
+    },
+    {
+    "id":182,
+    "soort": "C",
+    "vraag":"Van welk voertuig is Volkswagen het meest bekend in de wereld?",
+    "antwoord": "De kever"
+    },
+    {
+    "id":183,
+    "soort": "C",
+    "vraag":"Welk horlogebedrijf heeft een puntige kroon als logo?",
+    "antwoord": "Rolex"
+    },
+    {
+    "id":184,
+    "soort": "W",
+    "vraag":"Wat is de slogan van Apple Inc.?",
+    "antwoord": "Think different / denk anders"
+    },
+    {
+    "id":185,
+    "soort": "G",
+    "vraag":"Waar is backgammon ontstaan?",
+    "antwoord": " Perzië"
+    },
+    {
+    "id":186,
+    "soort": "A",
+    "vraag":"Wanneer valt Mexico's Dia de los Muertos?",
+    "antwoord": "1 en 2 November"
+    },
+    {
+    "id":187,
+    "soort": "C",
+    "vraag":"Met welk drank wordt het Oktoberfest in Duitsland gevierd?",
+    "antwoord": "Bier"
+    },
+    {
+    "id":188,
+    "soort": "C",
+    "vraag":"Wat wordt er gevierd op de 2e zaterdag in juni in het Verenigd Koninkrijk?",
+    "antwoord": "de officiële verjaardag van de koningin"
+    },
+    {
+    "id":189,
+    "soort": "A",
+    "vraag":"Welk land viert de Bestorming van de Bastille?",
+    "antwoord": "Frankrijk"
+    },
+    {
+    "id":190,
+    "soort": "A",
+    "vraag":"In welk land is de verjaardag van Mahatma Gandi een nationale feestdag?",
+    "antwoord": "India"
+    },
+    {
+    "id":191,
+    "soort": "A",
+    "vraag":"Op welke dag en maand wordt het Chinese Nieuwjaar gevierd?",
+    "antwoord": "25 ste januari"
+    },
+    {
+    "id":192,
+    "soort": "A",
+    "vraag":"Wanneer is de Onafhankelijkheidsdag in Cambodja?",
+    "antwoord": "44509"
+    },
+    {
+    "id":193,
+    "soort": "A",
+    "vraag":"Wanneer is de Onafhankelijkheidsdag in Polen?",
+    "antwoord": "44511"
+    },
+    {
+    "id":194,
+    "soort": "A",
+    "vraag":"Wanneer valt de Franse nationale feestdag",
+    "antwoord": "14 juli"
+    },
+    {
+    "id":195,
+    "soort": "A",
+    "vraag":"Welk aziatisch land heeft 30 feestdagen?",
+    "antwoord": "Nepal"
+    },
+    {
+    "id":196,
+    "soort": "A",
+    "vraag":"Geef een europees land met 15 feestdagen?",
+    "antwoord": "Zweden of Oostenrijk"
+    },
+    {
+    "id":197,
+    "soort": "A",
+    "vraag":"Wanneer valt de Chinese nationale feestdag",
+    "antwoord": "1 oktober"
+    },
+    {
+    "id":198,
+    "soort": "A",
+    "vraag":"wanneer valt de Cubaanse nationale feestdag?",
+    "antwoord": "1 januari"
+    },
+    {
+    "id":199,
+    "soort": "G",
+    "vraag":"In welk land werd Boeddha geboren?",
+    "antwoord": "nepal"
+    },
+    {
+    "id":200,
+    "soort": "G",
+    "vraag":"Wat is de Hebreeuwse term voor een goede daad gedaan uit een gevoel van religieuze plicht?",
+    "antwoord": "Mitswa"
+    },
+    {
+    "id":201,
+    "soort": "A",
+    "vraag":"Welk europees land heeft het als autokenteken een 'A'?",
+    "antwoord": "Oostenrijk"
+    },
+    {
+    "id":202,
+    "soort": "A",
+    "vraag":"Welk europees land heeft het als autokenteken een 'BIH'?",
+    "antwoord": "Bosnia and Herzegovina"
+    },
+    {
+    "id":203,
+    "soort": "A",
+    "vraag":"Welk europees land heeft het als autokenteken een 'HR'?",
+    "antwoord": "Kroatie"
+    },
+    {
+    "id":204,
+    "soort": "A",
+    "vraag":"Wat is zijn de letters van een ierse autokenteken?",
+    "antwoord": "IRL"
+    },
+    {
+    "id":205,
+    "soort": "A",
+    "vraag":"Welk europees land heeft het als autokenteken een 'MD'?",
+    "antwoord": "Moldova"
+    },
+    {
+    "id":206,
+    "soort": "A",
+    "vraag":"Wat is zijn de letters van een autokenteken uit Montenegro?",
+    "antwoord": "MNE"
+    },
+    {
+    "id":207,
+    "soort": "A",
+    "vraag":"Welk europees land heeft het als autokenteken een 'NMK'?",
+    "antwoord": "Noord-Macedonië"
+    },
+    {
+    "id":208,
+    "soort": "A",
+    "vraag":"Welk europees land heeft het als autokenteken een 'SRB'?",
+    "antwoord": "Servië"
+    },
+    {
+    "id":209,
+    "soort": "A",
+    "vraag":"Welk europees land heeft het als autokenteken een 'UA'?",
+    "antwoord": "Oekraïne"
+    },
+    {
+    "id":210,
+    "soort": "G",
+    "vraag":"Welke Griekse filosoof suggereerde dat de materiële wereld uit vier basiselementen bestond: lucht, water, vuur en aarde?",
+    "antwoord": "Empedocles."
+    },
+    {
+    "id":211,
+    "soort": "W",
+    "vraag":"Wat is de vorm van s-orbitaal?",
+    "antwoord": "Bolvormig"
+    },
+    {
+    "id":212,
+    "soort": "W",
+    "vraag":"Wat is exobiologie?",
+    "antwoord": "De studie van het leven in de ruimte."
+    },
+    {
+    "id":213,
+    "soort": "W",
+    "vraag":"Wie was de eerste persoon die modellen van vliegmachines ontwierp?",
+    "antwoord": "Leonardo da Vinci."
+    },
+    {
+    "id":214,
+    "soort": "W",
+    "vraag":"Wat ontdekte Sir William Herschel in 1800?",
+    "antwoord": "Infrarode straling."
+    },
+    {
+    "id":215,
+    "soort": "W",
+    "vraag":"Wat is de afkorting van Deoxyribonucleïnezuur.",
+    "antwoord": "DNA"
+    },
+    {
+    "id":216,
+    "soort": "W",
+    "vraag":"Wat is histologie?",
+    "antwoord": "Histologie is de studie van weefsels (Microscopische anatomie)."
+    },
+    {
+    "id":217,
+    "soort": "W",
+    "vraag":"Wat is genetica?",
+    "antwoord": "Genetica is de studie van erfelijkheid en variaties."
+    },
+    {
+    "id":218,
+    "soort": "W",
+    "vraag":"Wie zei: 'Alle vallende lichamen, ongeacht hun grootte, dalen met dezelfde snelheid af'?",
+    "antwoord": "Galileo Galilei."
+    },
+    {
+    "id":219,
+    "soort": "W",
+    "vraag":"Wie heeft het onzekerheidsbeginsel naar voren gebracht?",
+    "antwoord": "Werner Heisenberg."
+    },
+    {
+    "id":220,
+    "soort": "W",
+    "vraag":"Wie heefst de relativiteitstheorie bedacht?",
+    "antwoord": "Albert Einstein"
+    },
+    {
+    "id":221,
+    "soort": "W",
+    "vraag":"Hoe heet het best verkochte boek van Stephen Hawking?",
+    "antwoord": "A brief history of time"
+    },
+    {
+    "id":222,
+    "soort": "W",
+    "vraag":"Wat is de kleur van ammoniumchloride?",
+    "antwoord": "Wit"
+    },
+    {
+    "id":223,
+    "soort": "W",
+    "vraag":"Welke verschijnselen houden de planeten in een baan rond de zon?",
+    "antwoord": "De zwaartekracht"
+    },
+    {
+    "id":224,
+    "soort": "W",
+    "vraag":"Zou je meer of minder wegen op Mars?",
+    "antwoord": "minder"
+    },
+    {
+    "id":225,
+    "soort": "W",
+    "vraag":"Wie was de eerste persoon die op de maan liep?",
+    "antwoord": "Neil Armstrong"
+    },
+    {
+    "id":226,
+    "soort": "W",
+    "vraag":"Hoe heette de eerste hond in de ruimte?",
+    "antwoord": "Laika"
+    },
+    {
+    "id":227,
+    "soort": "W",
+    "vraag":"Welke kleur heeft de zonsondergang op Mars?",
+    "antwoord": "Blauw"
+    },
+    {
+    "id":228,
+    "soort": "W",
+    "vraag":"Welke planeet staat het dichtst bij de zon?",
+    "antwoord": "Mercurius"
+    },
+    {
+    "id":229,
+    "soort": "W",
+    "vraag":"Wat is de kleinste planeet in het zonnestelsel?",
+    "antwoord": "Mercurius"
+    },
+    {
+    "id":230,
+    "soort": "W",
+    "vraag":"Welke planeet staat het verst van de zon?",
+    "antwoord": "Neptunus"
+    },
+    {
+    "id":231,
+    "soort": "W",
+    "vraag":"Wat is de grootste planeet?",
+    "antwoord": "Jupiter"
+    },
+    {
+    "id":232,
+    "soort": "W",
+    "vraag":"Wat is het grootste bot in het menselijk lichaam?",
+    "antwoord": "het dijbeen"
+    },
+    {
+    "id":233,
+    "soort": "W",
+    "vraag":"Wat voor soort bloedgroep wordt de universele donor genoemd?",
+    "antwoord": "O negatief"
+    },
+    {
+    "id":234,
+    "soort": "N",
+    "vraag":"Wat is het grootste landdier dat vandaag nog leeft?",
+    "antwoord": "De Afrikaanse olifant."
+    },
+    {
+    "id":235,
+    "soort": "N",
+    "vraag":"Hoeveel ledematen heeft een octopus?",
+    "antwoord": "Acht"
+    },
+    {
+    "id":236,
+    "soort": "N",
+    "vraag":"Hoeveel sets vleugels hebben bijen?",
+    "antwoord": "twee"
+    },
+    {
+    "id":237,
+    "soort": "N",
+    "vraag":"Hoe heten dieren die alleen planten eten?",
+    "antwoord": "herbivoren"
+    },
+    {
+    "id":238,
+    "soort": "N",
+    "vraag":"Welk proces gebruiken vleermuizen om hun prooi te lokaliseren?",
+    "antwoord": "Echolocatie"
+    },
+    {
+    "id":239,
+    "soort": "W",
+    "vraag":"Wat is de kleinste eenheid van materie?",
+    "antwoord": "Een atoom"
+    },
+    {
+    "id":240,
+    "soort": "W",
+    "vraag":"Welke Griekse letter wordt gebruikt om dichtheid aan te geven?",
+    "antwoord": "rho (ρ)"
+    },
+    {
+    "id":241,
+    "soort": "W",
+    "vraag":"elk metaal wordt gevonden in het centrum van de aarde?",
+    "antwoord": "ijzer"
+    },
+    {
+    "id":242,
+    "soort": "W",
+    "vraag":"wat is de 2de hoogste berg ter wereld",
+    "antwoord": "K2"
+    },
+    {
+    "id":243,
+    "soort": "W",
+    "vraag":"De mount everest ligt tussen welke 2 landen?",
+    "antwoord": "Nepal en China"
+    },
+    {
+    "id":244,
+    "soort": "A",
+    "vraag":"Hoe heette het supercontinent van de aarde?",
+    "antwoord": "Pangaea"
+    },
+    {
+    "id":245,
+    "soort": "A",
+    "vraag":"Welke stad in Italië staat bekend om zijn grachten?",
+    "antwoord": "Venetië"
+    },
+    {
+    "id":246,
+    "soort": "W",
+    "vraag":"Hoeveel elementen staan ​​er in het periodiek systeem?",
+    "antwoord": "118"
+    },
+    {
+    "id":247,
+    "soort": "W",
+    "vraag":"Wat voor soort energie creëert die zon?",
+    "antwoord": "Kernenergie."
+    },
+    {
+    "id":248,
+    "soort": "W",
+    "vraag":"Wat meet een 'Geigerteller'?",
+    "antwoord": "straling"
+    },
+    {
+    "id":249,
+    "soort": "W",
+    "vraag":"Uit welke twee elementen bestaat water?",
+    "antwoord": "waterstof en zuurstof."
+    },
+    {
+    "id":250,
+    "soort": "W",
+    "vraag":"Welk woord gebruiken wetenschappers om een ​​maateenheid te beschrijven die ook de naam van een dier is?",
+    "antwoord": "mol"
+    },
+    {
+    "id":251,
+    "soort": "W",
+    "vraag":"Hoe wordt de neiging van de rotatie van de aarde om de wind te draaien genoemd?",
+    "antwoord": "Coriolis effect"
+    },
+    {
+    "id":252,
+    "soort": "W",
+    "vraag":"Wat bestudeert een seismoloog?",
+    "antwoord": "aardbevingen"
+    },
+    {
+    "id":253,
+    "soort": "W",
+    "vraag":"Welk dier heeft een draagtijd van slechts 13 dagen?",
+    "antwoord": "Opossum"
+    },
+    {
+    "id":254,
+    "soort": "G",
+    "vraag":"In welk jaar werd de eerste spaceshuttle gelanceerd?",
+    "antwoord": "1981"
+    },
+    {
+    "id":255,
+    "soort": "W",
+    "vraag":"Wat is de chemische naam van keukenzout?",
+    "antwoord": "Natriumchloride"
+    },
+    {
+    "id":256,
+    "soort": "W",
+    "vraag":"Welke nationaliteit had de eerste persoon in de ruimte?",
+    "antwoord": "Russisch"
+    },
+    {
+    "id":257,
+    "soort": "W",
+    "vraag":"Welk element heeft Na als chemisch symbool?",
+    "antwoord": "Natrium"
+    },
+    {
+    "id":258,
+    "soort": "N",
+    "vraag":"Welk zeedier heeft een oog zo groot als een basketbal?",
+    "antwoord": "De reuzeninktvis"
+    },
+    {
+    "id":259,
+    "soort": "W",
+    "vraag":"Hoe heet het Zuiderlicht?",
+    "antwoord": "Aurora Australis"
+    },
+    {
+    "id":260,
+    "soort": "W",
+    "vraag":"Hoe heet het Noorderlicht",
+    "antwoord": "Aurora Borealis"
+    },
+    {
+    "id":261,
+    "soort": "W",
+    "vraag":"Op welke ziekte was het eerste vaccin gericht?",
+    "antwoord": "Pokken"
+    },
+    {
+    "id":262,
+    "soort": "W",
+    "vraag":"Hoe wordt de studie van sterren, planeten en sterrenstelsels genoemd?",
+    "antwoord": "Astronomie"
+    },
+    {
+    "id":263,
+    "soort": "W",
+    "vraag":"Hoe wordt het opvangen van zonne-energie en straling van de zon genoemd?",
+    "antwoord": "Broeikaseffect"
+    },
+    {
+    "id":264,
+    "soort": "W",
+    "vraag":"Welke chemische stof wordt afgekort als CO2?",
+    "antwoord": "Kooldioxide"
+    },
+    {
+    "id":265,
+    "soort": "W",
+    "vraag":"Hoe wordt het buitenste skelet van organismen zoals spinnen en insecten genoemd?",
+    "antwoord": "exoskelet"
+    },
+    {
+    "id":266,
+    "soort": "W",
+    "vraag":"Welke wetenschapper bedacht de theorie van continentale drift?",
+    "antwoord": "Alfred Wegener"
+    },
+    {
+    "id":267,
+    "soort": "W",
+    "vraag":"Wie ontdekte het roterende magnetische veld dat aan de basis ligt van wisselstroom?",
+    "antwoord": "Nikola Tesla"
+    },
+    {
+    "id":268,
+    "soort": "W",
+    "vraag":"Als je het over elektriciteit hebt, waar staat 'DC' dan voor?",
+    "antwoord": " Gelijkstroom of Direct Current"
+    },
+    {
+    "id":269,
+    "soort": "W",
+    "vraag":"Waarvoor staat de afkorting van de muziekgroep AC/DC",
+    "antwoord": "Gelijkstroom/wisselstroom of Direct current/Alternate Current"
+    },
+    {
+    "id":270,
+    "soort": "W",
+    "vraag":"Uit welke stof bestaan ​​celwanden in groene planten?",
+    "antwoord": "Cellulose"
+    },
+    {
+    "id":271,
+    "soort": "W",
+    "vraag":"Hoe wordt een plotselinge gewelddadige explosie op de zon genoemd?",
+    "antwoord": "Zonnevlam of zonnewind"
+    },
+    {
+    "id":272,
+    "soort": "G",
+    "vraag":"Wie was de eerste Afro-Amerikaanse vrouwelijke astronaut?",
+    "antwoord": "Dr. Mae Jemison"
+    },
+    {
+    "id":273,
+    "soort": "W",
+    "vraag":"Wat voor soort sterrenstelsel is Algol?",
+    "antwoord": "Dubbelstersysteem"
+    },
+    {
+    "id":274,
+    "soort": "W",
+    "vraag":"Welke volume-eenheid is gelijk aan 3.785 liter?",
+    "antwoord": "Een gallon"
+    },
+    {
+    "id":275,
+    "soort": "W",
+    "vraag":"Wat is het scheikundige symbool voor lood?",
+    "antwoord": "Pb"
+    },
+    {
+    "id":276,
+    "soort": "W",
+    "vraag":"Welke persoon staat bekend om het vaststellen van de wetten van beweging en zwaartekracht?",
+    "antwoord": "Isaac Newton"
+    },
+    {
+    "id":277,
+    "soort": "W",
+    "vraag":"Welk atoomdeeltje bevindt zich buiten de kern?",
+    "antwoord": "Elektron"
+    },
+    {
+    "id":278,
+    "soort": "N",
+    "vraag":"Wat voor soort dier is een zeeaap?",
+    "antwoord": "Een (Zoutwater) Garnaal"
+    },
+    {
+    "id":279,
+    "soort": "W",
+    "vraag":"Uit hoeveel sterren bestaat de gordel van Orion?",
+    "antwoord": "3"
+    },
+    {
+    "id":280,
+    "soort": "W",
+    "vraag":"Hoe heette Toyota's eerste populaire hybride auto?",
+    "antwoord": "Prius"
+    },
+    {
+    "id":281,
+    "soort": "W",
+    "vraag":"Hoeveel planeten zijn er in het zonnestelsel (zonder Pluto)?",
+    "antwoord": "8"
+    },
+    {
+    "id":282,
+    "soort": "W",
+    "vraag":"Wat is een plotselinge ineenstorting en neerwaartse beweging van ijs en rotsen langs een berghelling?",
+    "antwoord": "een lawine"
+    },
+    {
+    "id":283,
+    "soort": "W",
+    "vraag":"Hoe heet de buitenste atmosfeer van de zon?",
+    "antwoord": "Corona"
+    },
+    {
+    "id":284,
+    "soort": "W",
+    "vraag":"Wat was het grootste levende wezen van de twintigste eeuw?",
+    "antwoord": "Blauwe vinvis"
+    },
+    {
+    "id":285,
+    "soort": "W",
+    "vraag":"Hoe heet het sterrenbeeld in de vorm van een gevleugeld paard?",
+    "antwoord": "Pegasus"
+    },
+    {
+    "id":286,
+    "soort": "W",
+    "vraag":"Welk element is een giftig gas dat samen met natrium tafelzout vormt?",
+    "antwoord": "Chloor"
+    },
+    {
+    "id":287,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool voor goud?",
+    "antwoord": "Au"
+    },
+    {
+    "id":288,
+    "soort": "C",
+    "vraag":"Wie is de zanger van Smash Mouth?",
+    "antwoord": "Steven Harwell"
+    },
+    {
+    "id":289,
+    "soort": "C",
+    "vraag":"Wie had een hit met het nummer 'Gangnam Style'?",
+    "antwoord": "Psy"
+    },
+    {
+    "id":290,
+    "soort": "C",
+    "vraag":"Welk lichaamsdeel van Rihanna was verzekerd voor een miljoen dollar?",
+    "antwoord": "Benen"
+    },
+    {
+    "id":291,
+    "soort": "C",
+    "vraag":"Wie had een hit met het nummer 'We Can't Stop'?",
+    "antwoord": "Miley Cyrus"
+    },
+    {
+    "id":292,
+    "soort": "C",
+    "vraag":"Wie zong een duet met Ed Sheeran op het nummer 'Perfect'?",
+    "antwoord": "Beyoncé"
+    },
+    {
+    "id":293,
+    "soort": "C",
+    "vraag":"Wie had er een hit met het nummer 'Come & Get It'?",
+    "antwoord": "Selena Gomez"
+    },
+    {
+    "id":294,
+    "soort": "C",
+    "vraag":"Wie bracht in 1985 de hitsingle 'If You Love Somebody Set Them Free' uit?",
+    "antwoord": "Sting"
+    },
+    {
+    "id":295,
+    "soort": "C",
+    "vraag":"Tot welke muzikale familie behoort de pauk?",
+    "antwoord": "Percussie"
+    },
+    {
+    "id":296,
+    "soort": "C",
+    "vraag":"Hoe heette de band van Bob Marley?",
+    "antwoord": "The Wailers"
+    },
+    {
+    "id":297,
+    "soort": "C",
+    "vraag":"Welke Britse zangeres van 'Back to Black' stierf in 2011 op 27-jarige leeftijd?",
+    "antwoord": "Amy Winehouse"
+    },
+    {
+    "id":298,
+    "soort": "C",
+    "vraag":"Van welk kenmerkend accessoire staat Elton John bekend?",
+    "antwoord": "Een Bril"
+    },
+    {
+    "id":299,
+    "soort": "C",
+    "vraag":"Wie was vóór Phil Collins de leadzanger van Genesis ?",
+    "antwoord": "Peter Gabriël"
+    },
+    {
+    "id":300,
+    "soort": "C",
+    "vraag":"Welke klassieke componist was doof?",
+    "antwoord": "Ludwig van Beethoven"
+    },
+    {
+    "id":301,
+    "soort": "C",
+    "vraag":"Welke astronoom wordt genoemd in 'Bohemian Rhapsody?'",
+    "antwoord": "Galileo"
+    },
+    {
+    "id":302,
+    "soort": "C",
+    "vraag":"Welke one hit wonder act zit er achter 'Barbie Girl?'",
+    "antwoord": "Aqua"
+    },
+    {
+    "id":303,
+    "soort": "C",
+    "vraag":"Welke artiesten hebben twee van hun bestverkochte albums opgenomen terwijl ze achter de tralies zaten?",
+    "antwoord": "Johnny Cash"
+    },
+    {
+    "id":304,
+    "soort": "N",
+    "vraag":"welk zoogdier is bekend dat het de krachtigste beet ter wereld heeft?",
+    "antwoord": "Nijlpaard"
+    },
+    {
+    "id":305,
+    "soort": "N",
+    "vraag":"Door welk lichaamsdeel zweet een hond?",
+    "antwoord": "Zijn poten"
+    },
+    {
+    "id":306,
+    "soort": "N",
+    "vraag":"welk dier is bekend dat het 90% van zijn dag slapend doorbrengt?",
+    "antwoord": "Koala's"
+    },
+    {
+    "id":307,
+    "soort": "N",
+    "vraag":"Welke kleur heeft de tong van een giraf?",
+    "antwoord": "Paars"
+    },
+    {
+    "id":308,
+    "soort": "N",
+    "vraag":"Hoe lang doet een luiaard erover om een ​​maaltijd te verteren? (dagen)",
+    "antwoord": "14 dagen"
+    },
+    {
+    "id":309,
+    "soort": "N",
+    "vraag":"Wat zijn de enige zoogdieren die niet kunnen springen?",
+    "antwoord": "Olifant"
+    },
+    {
+    "id":310,
+    "soort": "N",
+    "vraag":"Welk dier eet voornamelijk bamboe?",
+    "antwoord": "Panda"
+    },
+    {
+    "id":311,
+    "soort": "N",
+    "vraag":"Welk dier kan op zijn staart staan?",
+    "antwoord": "Kangoeroe"
+    },
+    {
+    "id":312,
+    "soort": "N",
+    "vraag":"Welk dier is het hoogste ter wereld?",
+    "antwoord": "Giraf"
+    },
+    {
+    "id":313,
+    "soort": "N",
+    "vraag":"Welk dier is bedekt met stekels?",
+    "antwoord": "Stekelvarken"
+    },
+    {
+    "id":314,
+    "soort": "N",
+    "vraag":"Welk dier kan zijn ogen zelfstandig bewegen?",
+    "antwoord": "Een kameleon"
+    },
+    {
+    "id":315,
+    "soort": "N",
+    "vraag":"Welk dier ademt uit zijn poep?",
+    "antwoord": "Schildpadden"
+    },
+    {
+    "id":316,
+    "soort": "N",
+    "vraag":"Hoeveel huidlagen heeft een kameleon?",
+    "antwoord": "Vier"
+    },
+    {
+    "id":317,
+    "soort": "N",
+    "vraag":"Wat gebruiken slangen om te ruiken?",
+    "antwoord": "Hun tong"
+    },
+    {
+    "id":318,
+    "soort": "N",
+    "vraag":"Hoe heet de grootste slang ter wereld?",
+    "antwoord": "Anaconda"
+    },
+    {
+    "id":320,
+    "soort": "N",
+    "vraag":"Hoe heet het larvenstadium van een kikker?",
+    "antwoord": "Kikkervis(je)"
+    },
+    {
+    "id":321,
+    "soort": "N",
+    "vraag":"Kikkers leggen eieren.",
+    "antwoord": "Waar"
+    },
+    {
+    "id":322,
+    "soort": "N",
+    "vraag":"Welke amfibie heeft een staart?",
+    "antwoord": "Salamanders"
+    },
+    {
+    "id":323,
+    "soort": "N",
+    "vraag":"Zijn kikkers overdag of 's nachts actiever?",
+    "antwoord": " 's Nachts"
+    },
+    {
+    "id":324,
+    "soort": "N",
+    "vraag":"Hoeveel ogen hebben rupsen?",
+    "antwoord": "12"
+    },
+    {
+    "id":325,
+    "soort": "N",
+    "vraag":"Hoeveel poten hebben kakkerlakken?",
+    "antwoord": "6"
+    },
+    {
+    "id":326,
+    "soort": "N",
+    "vraag":"Hoe lang leeft de gemiddelde huisvlieg? (dagen)",
+    "antwoord": "28"
+    },
+    {
+    "id":327,
+    "soort": "N",
+    "vraag":"Wat is het luidste insect ter wereld?",
+    "antwoord": "Cicade"
+    },
+    {
+    "id":328,
+    "soort": "N",
+    "vraag":"Met welk lichaamsdeel proeft een vlinder?",
+    "antwoord": "voeten"
+    },
+    {
+    "id":329,
+    "soort": "C",
+    "vraag":"Welk lid van de Beatles had een kat genaamd Elvis?",
+    "antwoord": "John Lennon"
+    },
+    {
+    "id":330,
+    "soort": "N",
+    "vraag":"Welk dier is in Rome wettelijk beschermd?",
+    "antwoord": "een kat"
+    },
+    {
+    "id":331,
+    "soort": "N",
+    "vraag":"Van welke vogel is bekend dat hij ogen heeft die groter zijn dan zijn hersenen?",
+    "antwoord": "struisvogel"
+    },
+    {
+    "id":332,
+    "soort": "N",
+    "vraag":"Wat is het enige continent ter wereld waarvan bekend is dat het slangvrij is?",
+    "antwoord": "Antarctica"
+    },
+    {
+    "id":333,
+    "soort": "N",
+    "vraag":"In Peru is het gebruikelijk om welk populair huisdier te eten?",
+    "antwoord": "Cavia"
+    },
+    {
+    "id":334,
+    "soort": "N",
+    "vraag":"Van welk dier is bekend dat het door hun huid ademt?",
+    "antwoord": "Kikkers"
+    },
+    {
+    "id":335,
+    "soort": "N",
+    "vraag":"Welke kleur heeft het bloed van een octopus?",
+    "antwoord": "Blauw"
+    },
+    {
+    "id":336,
+    "soort": "A",
+    "vraag":"Hoe heet wereld's grootste meer?",
+    "antwoord": "Kaspische Zee"
+    },
+    {
+    "id":337,
+    "soort": "A",
+    "vraag":"Welke europese land heeft op de vlag deze kleur volgorde: geel, groen, rood",
+    "antwoord": "Litouwen"
+    },
+    {
+    "id":338,
+    "soort": "A",
+    "vraag":"Welke europese land heeft op de vlag deze kleur volgorde: rood, wit, rood",
+    "antwoord": "Oostenrijk"
+    },
+    {
+    "id":339,
+    "soort": "A",
+    "vraag":"Welke europese land heeft op de vlag deze kleur volgorde: blauw, zwart, wit",
+    "antwoord": "Estland"
+    },
+    {
+    "id":340,
+    "soort": "A",
+    "vraag":"Welke europese land heeft op de vlag deze kleur volgorde: groen, wit, orange",
+    "antwoord": "Ierland"
+    },
+    {
+    "id":341,
+    "soort": "A",
+    "vraag":"Wat zijn de 2 hoofdkleuren van vlag van Vaticaan stad?",
+    "antwoord": "Geel en wit"
+    },
+    {
+    "id":342,
+    "soort": "A",
+    "vraag":"Wat zijn de 2 hoofdkleuren van vlag van Noord Macedonie?",
+    "antwoord": "Rood en geel"
+    },
+    {
+    "id":343,
+    "soort": "A",
+    "vraag":"Welke europese land heeft op de vlag deze kleur volgorde: Wit, groen, rood",
+    "antwoord": "Bulgarije"
+    },
+    {
+    "id":344,
+    "soort": "A",
+    "vraag":"Wat zijn de 2 hoofdkleuren van vlag van Wit-rusland?",
+    "antwoord": "Rood en groen"
+    },
+    {
+    "id":345,
+    "soort": "A",
+    "vraag":"Welk Europees land is de nummer 1 toeristische bestemming ter wereld?",
+    "antwoord": "Frankrijk"
+    },
+    {
+    "id":346,
+    "soort": "A",
+    "vraag":"Wat zijn de drie Baltische staten",
+    "antwoord": "Litouwen, Letland en Estland."
+    },
+    {
+    "id":347,
+    "soort": "A",
+    "vraag":"In welke Europese stad vind je de Akropolis",
+    "antwoord": "Athene"
+    },
+    {
+    "id":348,
+    "soort": "A",
+    "vraag":"Europa is het dichtstbevolkte continent.",
+    "antwoord": "waar"
+    },
+    {
+    "id":349,
+    "soort": "A",
+    "vraag":"10% van de wereldbevolking woont in Europa.",
+    "antwoord": "waar"
+    },
+    {
+    "id":350,
+    "soort": "A",
+    "vraag":"Parijs is groter dan Londen",
+    "antwoord": "niet waar"
+    },
+    {
+    "id":351,
+    "soort": "A",
+    "vraag":"Wat is de noordelijkste hoofdstad van Europa?",
+    "antwoord": "Reykjavik"
+    },
+    {
+    "id":352,
+    "soort": "A",
+    "vraag":"Welk Europees land heeft de langste kustlijn",
+    "antwoord": "Noorwegen"
+    },
+    {
+    "id":353,
+    "soort": "A",
+    "vraag":"Wat is de hoogste top van de Alpen",
+    "antwoord": "Mont Blanc"
+    },
+    {
+    "id":354,
+    "soort": "A",
+    "vraag":"Wat is het grootste eiland in de Middellandse Zee",
+    "antwoord": "Sicilië"
+    },
+    {
+    "id":355,
+    "soort": "A",
+    "vraag":"Wat is de langste rivier van Europa",
+    "antwoord": "Wolga"
+    },
+    {
+    "id":356,
+    "soort": "A",
+    "vraag":"Wat is het dichtstbevolkte land van Europa",
+    "antwoord": "Monaco"
+    },
+    {
+    "id":357,
+    "soort": "A",
+    "vraag":"Wat is de hoofdstad van Roemenië?",
+    "antwoord": "Boekarest"
+    },
+    {
+    "id":358,
+    "soort": "A",
+    "vraag":"In welke hoofdstad vind je het Prado Museum?",
+    "antwoord": "Madrid"
+    },
+    {
+    "id":359,
+    "soort": "A",
+    "vraag":"Wat is de hoofdstad van Noorwegen?",
+    "antwoord": "Oslo"
+    },
+    {
+    "id":360,
+    "soort": "A",
+    "vraag":"Wat is de dichtstbevolkte hoofdstad van de Scandinavische landen?",
+    "antwoord": "Kopenhagen"
+    },
+    {
+    "id":361,
+    "soort": "A",
+    "vraag":"Wat is de hoofdstad van Estland?",
+    "antwoord": "Tallinn"
+    },
+    {
+    "id":362,
+    "soort": "A",
+    "vraag":"In welke hoofdstad vind je de Brandenburger Poort?",
+    "antwoord": "Berlijn"
+    },
+    {
+    "id":363,
+    "soort": "A",
+    "vraag":"Wat is de hoofdstad van Portugal?",
+    "antwoord": "Lissabon"
+    },
+    {
+    "id":364,
+    "soort": "A",
+    "vraag":"Wat was de eerste hoofdstad van Engeland?",
+    "antwoord": "Winchester"
+    },
+    {
+    "id":365,
+    "soort": "A",
+    "vraag":"Wat is de hoofdstad van Kroatië?",
+    "antwoord": "Zagreb"
+    },
+    {
+    "id":366,
+    "soort": "A",
+    "vraag":"Van welk land is Tirana de hoofdstad?",
+    "antwoord": "Albanië"
+    },
+    {
+    "id":367,
+    "soort": "C",
+    "vraag":"Uit welke Europese stad komt de band 'Oasis'?",
+    "antwoord": "Manchester"
+    },
+    {
+    "id":368,
+    "soort": "C",
+    "vraag":"Uit welk land komt Daft Punk?",
+    "antwoord": "Frankrijk"
+    },
+    {
+    "id":369,
+    "soort": "A",
+    "vraag":"Uit welke Europese stad komen de Beatles?",
+    "antwoord": "Liverpool"
+    },
+    {
+    "id":370,
+    "soort": "C",
+    "vraag":"In welke Europese stad speelde Led Zeppelin voor het eerst “Stairway to Heaven”?",
+    "antwoord": "Belfast"
+    },
+    {
+    "id":371,
+    "soort": "C",
+    "vraag":"In welke Europese stad werd Enrique Iglesias geboren?",
+    "antwoord": "Madrid"
+    },
+    {
+    "id":372,
+    "soort": "C",
+    "vraag":"In welke Europese stad speelt “Romeo en Julia” zich af?",
+    "antwoord": "Verona"
+    },
+    {
+    "id":373,
+    "soort": "G",
+    "vraag":"Wie schreef 'Les Misérables'?",
+    "antwoord": "Victor Hugo"
+    },
+    {
+    "id":374,
+    "soort": "G",
+    "vraag":"Welke Spaanse auteur schreef 'Poet in New York'?",
+    "antwoord": "Federico García Lorca"
+    },
+    {
+    "id":375,
+    "soort": "G",
+    "vraag":"Welke Duitse auteur schreef 'The Tin Drum' en 'Cat and Mouse'?",
+    "antwoord": "Günter Grass"
+    },
+    {
+    "id":376,
+    "soort": "C",
+    "vraag":"Uit welk land kwam Roald Dahl?",
+    "antwoord": "Groot brittanie"
+    },
+    {
+    "id":377,
+    "soort": "C",
+    "vraag":"Op welk platform moest je bij Harry Potter the trein nemen om naar Zweinstein (Hogwarts) te reizen?",
+    "antwoord": "Platform 9 ¾"
+    },
+    {
+    "id":378,
+    "soort": "C",
+    "vraag":"Wie schreef 'Oliver Twist'?",
+    "antwoord": "Charles Dickens"
+    },
+    {
+    "id":379,
+    "soort": "C",
+    "vraag":"In welke straat woont Sherlock Holmes?",
+    "antwoord": "Baker street"
+    },
+    {
+    "id":380,
+    "soort": "G",
+    "vraag":"Welke vrouwelijke Europese auteur is de bestverkopende auteur ter wereld?",
+    "antwoord": "Agatha Christie"
+    },
+    {
+    "id":381,
+    "soort": "C",
+    "vraag":"In welke Europese stad ontmoetten Celine en Jesse elkaar in “Before Sunset”?",
+    "antwoord": "Wenen"
+    },
+    {
+    "id":382,
+    "soort": "C",
+    "vraag":"Welke Franse actrice speelt Fanny Chenal in 'A good year'?",
+    "antwoord": "Marion Cotillard"
+    },
+    {
+    "id":383,
+    "soort": "C",
+    "vraag":"Wat is de eerste Italiaanse stad waar Tom naartoe reist in 'The Talented Mr. Ripley'?",
+    "antwoord": "Venetië"
+    },
+    {
+    "id":384,
+    "soort": "C",
+    "vraag":"In welke Europese stad woont Amelie?",
+    "antwoord": "Parijs"
+    },
+    {
+    "id":385,
+    "soort": "C",
+    "vraag":"In welk land vindt het de film 'Leap year' plaats?",
+    "antwoord": "Ierland"
+    },
+    {
+    "id":386,
+    "soort": "C",
+    "vraag":"Welk Europees land komt voor in tv-reeks 'Outlander'?",
+    "antwoord": "Schotland"
+    },
+    {
+    "id":387,
+    "soort": "C",
+    "vraag":"Welke HBO-show is opgenomen in Belfast?",
+    "antwoord": "Game of Thrones"
+    },
+    {
+    "id":388,
+    "soort": "C",
+    "vraag":"Wie is de oudste dochter van Crawley in de tv-reeks Downton Abbey?",
+    "antwoord": "Lady Mary"
+    },
+    {
+    "id":389,
+    "soort": "C",
+    "vraag":"Wat is de oorspronkelijke naam, in het Spaans, van de tv-reeks Money Heist?",
+    "antwoord": "La casa de Papel"
+    },
+    {
+    "id":390,
+    "soort": "C",
+    "vraag":"Welk historisch Netflix-drama vertelt het verhaal van de koningin van Engeland en haar familie?",
+    "antwoord": "The crown"
+    },
+    {
+    "id":391,
+    "soort": "C",
+    "vraag":"Welke acteur speelt Hannibal in de tv-reeks Hannibal?",
+    "antwoord": "Mads mikkelsen"
+    },
+    {
+    "id":392,
+    "soort": "C",
+    "vraag":"Welke acteur had de hoofdrol speler in de film The Shawshank Redemption?",
+    "antwoord": "Tim Robbins"
+    },
+    {
+    "id":393,
+    "soort": "C",
+    "vraag":"Welke acteur speelde de zoon van Don Vito Corleone in de film The Godfather?",
+    "antwoord": "Al Pacino"
+    },
+    {
+    "id":394,
+    "soort": "C",
+    "vraag":"Welke acteur speelde de Joker in de film The Dark Knight?",
+    "antwoord": "Heath Ledger"
+    },
+    {
+    "id":395,
+    "soort": "C",
+    "vraag":"Wie was de director van de film Schindler's List?",
+    "antwoord": "Steven Spielberg"
+    },
+    {
+    "id":396,
+    "soort": "C",
+    "vraag":"Wat was de 2de regel van Fight Club in de film Fight Club?",
+    "antwoord": "You do not talk about Fight Club"
+    },
+    {
+    "id":397,
+    "soort": "C",
+    "vraag":"Wie speelde Forrest Gump in de film Forrest Gump",
+    "antwoord": "Tom Hanks"
+    },
+    {
+    "id":398,
+    "soort": "C",
+    "vraag":"Welke acteur speelde Morpheus in de film The Matrix?",
+    "antwoord": "Laurence Fishburne"
+    },
+    {
+    "id":399,
+    "soort": "C",
+    "vraag":"Hoe heet de vrouwelijke hoofdkarakter in de film The Matrix?",
+    "antwoord": "Trinity"
+    },
+    {
+    "id":400,
+    "soort": "C",
+    "vraag":"Wie speelde Luke Skywalker in de originele Star Wars film-trilogie",
+    "antwoord": "Mark Hamill"
+    },
+    {
+    "id":401,
+    "soort": "C",
+    "vraag":"WIe was de director van de flim Interstellar?",
+    "antwoord": "Christopher Nolan"
+    },
+    {
+    "id":402,
+    "soort": "C",
+    "vraag":"Hoe heet de studio dat films Spirited Away en Howl;s Moving Castle Creerde?",
+    "antwoord": "Studio Ghibli"
+    },
+    {
+    "id":403,
+    "soort": "C",
+    "vraag":"Wie sprak de stem van Mufasa in de film The Lion King?",
+    "antwoord": "James Earl Jones"
+    },
+    {
+    "id":404,
+    "soort": "C",
+    "vraag":"Wie was de director van de film Psycho?",
+    "antwoord": "Alfred Hitchcock?"
+    },
+    {
+    "id":405,
+    "soort": "G",
+    "vraag":"Wie werd in 800 tot Romeinse keizer van het Westen gekroond?",
+    "antwoord": "Karel de grote"
+    },
+    {
+    "id":406,
+    "soort": "G",
+    "vraag":"Wie werd er verslagen in de slag bij Waterloo?",
+    "antwoord": "Napoleon"
+    },
+    {
+    "id":407,
+    "soort": "G",
+    "vraag":"Welk verdrag heeft de Europese Economische Gemeenschap opgericht?",
+    "antwoord": "Verdrag van Rome"
+    },
+    {
+    "id":408,
+    "soort": "G",
+    "vraag":"In welk jaar is de euro ingevoerd?",
+    "antwoord": "2002"
+    },
+    {
+    "id":409,
+    "soort": "G",
+    "vraag":"Wanneer was WOI wapenstilstand (volledige datum)?",
+    "antwoord": "6890"
+    },
+    {
+    "id":410,
+    "soort": "N",
+    "vraag":"Uit welk land is de Byrek een traditioneel gerecht?",
+    "antwoord": "Albanië"
+    },
+    {
+    "id":412,
+    "soort": "N",
+    "vraag":"Welk Europees land staat vooral bekend om zijn wafels?",
+    "antwoord": "België"
+    },
+    {
+    "id":413,
+    "soort": "N",
+    "vraag":"Uit welk land komt Halloumi-kaas?",
+    "antwoord": "Cyprus"
+    },
+    {
+    "id":414,
+    "soort": "N",
+    "vraag":"Uit welk land is Smørrebrød een typisch gerecht?",
+    "antwoord": "Denemarken"
+    },
+    {
+    "id":415,
+    "soort": "N",
+    "vraag":"In welke stad is de pizza uitgevonden?",
+    "antwoord": "Napels"
+    },
+    {
+    "id":416,
+    "soort": "N",
+    "vraag":"Uit welk land is de Goulash een typisch gerecht?",
+    "antwoord": "Hongarije"
+    },
+    {
+    "id":417,
+    "soort": "G",
+    "vraag":"Waar staat de UEFA voor?",
+    "antwoord": "Unie van Europese voetbalbonden"
+    },
+    {
+    "id":418,
+    "soort": "C",
+    "vraag":"Wat is het Italiaanse equivalent van de Tour de France? ",
+    "antwoord": "De Giro d'Italia"
+    },
+    {
+    "id":419,
+    "soort": "C",
+    "vraag":"Wie was de jongste wereldkampioen Formule 1?",
+    "antwoord": "Sebastian Vettel"
+    },
+    {
+    "id":420,
+    "soort": "C",
+    "vraag":"In welk Europees land werden de eerste moderne Olympische Spelen gehouden?",
+    "antwoord": "Griekenland"
+    },
+    {
+    "id":421,
+    "soort": "A",
+    "vraag":"In welke stad vind je de luchthaven van Heathrow?",
+    "antwoord": "Londen"
+    },
+    {
+    "id":421,
+    "soort": "A",
+    "vraag":"Welke Europese luchthaven draagt ​​de naam van een voetballer?",
+    "antwoord": "Luchthaven George Best Belfast"
+    },
+    {
+    "id":423,
+    "soort": "A",
+    "vraag":"Als je naar Charles de Gaulle vliegt, naar welke stad vlieg je dan?",
+    "antwoord": "Parijs"
+    },
+    {
+    "id":424,
+    "soort": "A",
+    "vraag":"Wat is de drukste luchthaven in Duitsland?",
+    "antwoord": "Luchthaven Frankfurt"
+    },
+    {
+    "id":425,
+    "soort": "W",
+    "vraag":"Wat is een TGV?",
+    "antwoord": "Hogesnelheidstrein (Trein à Grande Vitesse)"
+    },
+    {
+    "id":426,
+    "soort": "A",
+    "vraag":"In welke stad vind je de luchthaven Fontanarossa?",
+    "antwoord": "Catania"
+    },
+    {
+    "id":427,
+    "soort": "A",
+    "vraag":"In welke stad vind je de Marco Polo Airport?",
+    "antwoord": "Venetië"
+    },
+    {
+    "id":428,
+    "soort": "A",
+    "vraag":"Als je vanuit Praag rijdt, ben je dan sneller in Berlijn of Amsterdam?",
+    "antwoord": "Berlijn"
+    },
+    {
+    "id":429,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Afghanistan?",
+    "antwoord": "Kaboel"
+    },
+    {
+    "id":430,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Argentinië?",
+    "antwoord": "Buenos Aires"
+    },
+    {
+    "id":431,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Wit-Rusland?",
+    "antwoord": "Minsk"
+    },
+    {
+    "id":432,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Bulgarije?",
+    "antwoord": "Sofia"
+    },
+    {
+    "id":433,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Colombia?",
+    "antwoord": "Bogota"
+    },
+    {
+    "id":434,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Cuba?",
+    "antwoord": "Havana"
+    },
+    {
+    "id":435,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Egypte?",
+    "antwoord": "Cairo"
+    },
+    {
+    "id":436,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Finland?",
+    "antwoord": "Helsinki"
+    },
+    {
+    "id":437,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Hongarije?",
+    "antwoord": "Boedapest"
+    },
+    {
+    "id":438,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Kenia?",
+    "antwoord": "Nairobi"
+    },
+    {
+    "id":439,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Letland?",
+    "antwoord": "Riga"
+    },
+    {
+    "id":440,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Libië?",
+    "antwoord": "Tripoli"
+    },
+    {
+    "id":441,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Maleisië?",
+    "antwoord": "Kuala Lumpur"
+    },
+    {
+    "id":442,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Malta?",
+    "antwoord": "Valletta"
+    },
+    {
+    "id":443,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Mongolië?",
+    "antwoord": "Ulaanbaatar"
+    },
+    {
+    "id":444,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Montenegro?",
+    "antwoord": "Podgorica"
+    },
+    {
+    "id":445,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Nepal?",
+    "antwoord": "Kathmandu"
+    },
+    {
+    "id":446,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Namibië?",
+    "antwoord": "Windhoek"
+    },
+    {
+    "id":447,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Noord Korea?",
+    "antwoord": "Pyongyang"
+    },
+    {
+    "id":448,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Noord-Macedonië?",
+    "antwoord": "Skopje"
+    },
+    {
+    "id":449,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Noorwegen?",
+    "antwoord": "Oslo"
+    },
+    {
+    "id":450,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van De Filippijnen?",
+    "antwoord": "manilla"
+    },
+    {
+    "id":451,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Senegal?",
+    "antwoord": "Dakar"
+    },
+    {
+    "id":452,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Slovenië?",
+    "antwoord": "Ljubljana"
+    },
+    {
+    "id":453,
+    "soort": "A",
+    "vraag":"Wat is de hoofstad van Zimbabwe?",
+    "antwoord": "Harare"
+    },
+    {
+    "id":454,
+    "soort": "A",
+    "vraag":"Wat zijn de 3 hoofdkleuren dat te zien zijn op de vlag van Uganda?",
+    "antwoord": "Zwart, Geel, Rood"
+    },
+    {
+    "id":455,
+    "soort": "A",
+    "vraag":"Welke kleur overheerst er in de vlag van Tunesië",
+    "antwoord": "Rood"
+    },
+    {
+    "id":456,
+    "soort": "A",
+    "vraag":"Welke kleuren zijn er te zien op de vlag van Nigeria",
+    "antwoord": "Groen en Wit"
+    },
+    {
+    "id":457,
+    "soort": "A",
+    "vraag":"Welke kleur overheerst er in de vlag van Marokko?",
+    "antwoord": "Rood"
+    },
+    {
+    "id":458,
+    "soort": "A",
+    "vraag":"De vlag van Burkina Faso is rood en groen, maar welk symbool staat er in het in midden van die vlag?",
+    "antwoord": "Een ster"
+    },
+    {
+    "id":459,
+    "soort": "A",
+    "vraag":"Welke kleur overheerst er in de vlag van de Afrikaanse Unie?",
+    "antwoord": "Groen"
+    },
+    {
+    "id":460,
+    "soort": "A",
+    "vraag":"Op de vlag van Zambia (Zambië of vroegr Noord-Rhodesië) staat een dier, welk?",
+    "antwoord": "vogel / arend"
+    },
+    {
+    "id":461,
+    "soort": "A",
+    "vraag":"Op de vlag van de Canarische Eilanden staat er 2 dieren, dat ook op hun wapenschild staat, welk soort dier is dit?",
+    "antwoord": "Een hond"
+    },
+    {
+    "id":462,
+    "soort": "A",
+    "vraag":"Welke kleur overheerst er in de vlag van de Kazachstan?",
+    "antwoord": "(licht) blauw"
+    },
+    {
+    "id":463,
+    "soort": "A",
+    "vraag":"Welke 2 kleuren heeft de vlag van Japan ? ",
+    "antwoord": "wit en rood"
+    },
+    {
+    "id":464,
+    "soort": "A",
+    "vraag":"De vlag van Burkina Faso is rood en groen, maar welk symbool staat er in het in midden van die vlag?",
+    "antwoord": "Een ster"
+    },
+    {
+    "id":465,
+    "soort": "A",
+    "vraag":"Welke kleuren zijn er te zien op de vlag van Thailand?",
+    "antwoord": "(donker)rood, wit en (donker)blauw"
+    },
+    {
+    "id":466,
+    "soort": "A",
+    "vraag":"De vlag van Laos is rood en blauw, maar welk symbool staat er in het in midden van die vlag?",
+    "antwoord": "een cirkel"
+    },
+    {
+    "id":467,
+    "soort": "A",
+    "vraag":"De vlag van Laos is rood, maar welk symbool staat er in het in midden van die vlag?",
+    "antwoord": "Een ster"
+    },
+    {
+    "id":468,
+    "soort": "A",
+    "vraag":"De vlag van Myannmar bevat een grote witte ster, maar welke kleuren hebben de 3 strepen achter die ster?",
+    "antwoord": "Geel, Groen en Rood"
+    },
+    {
+    "id":469,
+    "soort": "A",
+    "vraag":"Welk symbool staat er op de vlag van Bangladesh?",
+    "antwoord": "Een cirkel"
+    },
+    {
+    "id":470,
+    "soort": "A",
+    "vraag":"Welk land uit Azie heeft een vlag dat meer dan 4 hoeken bevat?",
+    "antwoord": "Nepal"
+    },
+    {
+    "id":471,
+    "soort": "A",
+    "vraag":"Geef de 3 overheersende kleuren van de vlag van Egypte.",
+    "antwoord": "Rood, wit en Zwart"
+    },
+    {
+    "id":472,
+    "soort": "A",
+    "vraag":"Welke kleur overheerst er in de vlag van Cyprus",
+    "antwoord": "Wit"
+    },
+    {
+    "id":473,
+    "soort": "G",
+    "vraag":"In welke stad werd een van de oude wereldwonderen, de 'hangende tuinen', gevonden?",
+    "antwoord": "Babylon"
+    },
+    {
+    "id":474,
+    "soort": "G",
+    "vraag":"Welke organisatie kreeg in 1917 de Nobelprijs voor de Vrede?",
+    "antwoord": "Het Rode Kruis"
+    },
+    {
+    "id":475,
+    "soort": "G",
+    "vraag":"Hoeveel dagen in een week waren er in de oude Romeinse tijd?",
+    "antwoord": "8"
+    },
+    {
+    "id":476,
+    "soort": "G",
+    "vraag":"Wat was de familienaam van de Russische heersers van de 17e eeuw tot de revolutie van 1917?",
+    "antwoord": "Romanov"
+    },
+    {
+    "id":477,
+    "soort": "G",
+    "vraag":"Welke brug werd als eerste gebouwd over de rivier de Theems in Londen?",
+    "antwoord": "London Bridge"
+    },
+    {
+    "id":478,
+    "soort": "G",
+    "vraag":"Hoeveel Amerikaanse presidenten zijn er vermoord?",
+    "antwoord": "4"
+    },
+    {
+    "id":479,
+    "soort": "G",
+    "vraag":"Welke koning van Engeland werd in 1649 tijdens de Engelse Burgeroorlog geëxecuteerd?",
+    "antwoord": "Karel de 1ste"
+    },
+    {
+    "id":480,
+    "soort": "G",
+    "vraag":"Welke wereldleider is beroemd om zijn 'Little Red Book'?",
+    "antwoord": "Mao Zedong, of Mao Tse-tung"
+    },
+    {
+    "id":481,
+    "soort": "G",
+    "vraag":"Wanneer kwam Mao Zedong aan de macht?",
+    "antwoord": "1949"
+    },
+    {
+    "id":482,
+    "soort": "G",
+    "vraag":"Wie werd op 30 maart 1981 buiten het Hilton Hotel in Washington doodgeschoten?",
+    "antwoord": "Amerikaanse president Ronald Reagan"
+    },
+    {
+    "id":483,
+    "soort": "G",
+    "vraag":"Welke Russische astronaut was de eerste man die een ruimtewandeling maakte?",
+    "antwoord": "Alexey Leonov"
+    },
+    {
+    "id":484,
+    "soort": "G",
+    "vraag":"Welke beruchte gevangenis werd op 14 juli 1789 bestormd?",
+    "antwoord": "De Bastille in Parijs"
+    },
+    {
+    "id":485,
+    "soort": "G",
+    "vraag":"Wie was de eerste vrouw in de ruimte?",
+    "antwoord": "Valentina Tereshkova"
+    },
+    {
+    "id":486,
+    "soort": "G",
+    "vraag":"Op hoeveel heuvels is de oude stad Rome gebouwd?",
+    "antwoord": "7"
+    },
+    {
+    "id":487,
+    "soort": "G",
+    "vraag":"De Peloponnesische Oorlog werd uitgevochten tussen Athene en welke andere oude Griekse staat?",
+    "antwoord": "Sparta"
+    },
+    {
+    "id":488,
+    "soort": "W",
+    "vraag":"Wie bouwde de eerste auto in Amerika?",
+    "antwoord": "Henry Ford"
+    },
+    {
+    "id":489,
+    "soort": "G",
+    "vraag":"Welke oorlog vond er plaats tussen 1950 en 1953?",
+    "antwoord": "De Koreaanse Oorlog"
+    },
+    {
+    "id":490,
+    "soort": "W",
+    "vraag":"Wie staat bekend om naakt Eureka door de straten te roepen?",
+    "antwoord": "Archimedes"
+    },
+    {
+    "id":491,
+    "soort": "G",
+    "vraag":"Hoe stierf Jeanne d'Arc?",
+    "antwoord": "brandstapel"
+    },
+    {
+    "id":492,
+    "soort": "G",
+    "vraag":"In welk jaar werd de Berlijnse Muur afgebroken?",
+    "antwoord": "1989"
+    },
+    {
+    "id":493,
+    "soort": "G",
+    "vraag":"Wie leidde de USSR van 1917-1922?",
+    "antwoord": "Vladimir Lenin"
+    },
+    {
+    "id":494,
+    "soort": "C",
+    "vraag":"Hoe heet het debuutalbum van The Beatles?",
+    "antwoord": "Please Please Me"
+    },
+    {
+    "id":495,
+    "soort": "G",
+    "vraag":"De 'Whitechapel Murderer' is de bijnaam die aan welke seriemoordenaar wordt gegeven?",
+    "antwoord": "Jack the Ripper"
+    },
+    {
+    "id":496,
+    "soort": "G",
+    "vraag":"In welk jaar begint de bouw van de Berlijnse Muur?",
+    "antwoord": "1961"
+    },
+    {
+    "id":497,
+    "soort": "A",
+    "vraag":"In welk modern land ligt het Incarijk?",
+    "antwoord": "Peru"
+    },
+    {
+    "id":498,
+    "soort": "W",
+    "vraag":"Wie heeft de telefoon uitgevonden?",
+    "antwoord": "Alexander Graham Bell"
+    },
+    {
+    "id":499,
+    "soort": "G",
+    "vraag":"Hoe heette Bangladesh vóór de onafhankelijkheid?",
+    "antwoord": "Oost-Pakistan"
+    },
+    {
+    "id":500,
+    "soort": "G",
+    "vraag":"Welk land scheidde zich in 1921 van het Verenigd Koninkrijk af?",
+    "antwoord": "Ierland"
+    },
+    {
+    "id":501,
+    "soort": "G",
+    "vraag":"In welk land is het grootste bekende T-Rex skelet gevonden?",
+    "antwoord": "Canada"
+    },
+    {
+    "id":502,
+    "soort": "C",
+    "vraag":"Wat was het eerste speelgoed waarvoor op televisie reclame werd gemaakt?",
+    "antwoord": "Mr. Potato Head"
+    },
+    {
+    "id":503,
+    "soort": "G",
+    "vraag":"In welk jaar werd Pearl Harbor gebombardeerd?",
+    "antwoord": "1941"
+    },
+    {
+    "id":504,
+    "soort": "W",
+    "vraag":"Wie heeft de eerste succesvolle drukpers gemaakt?",
+    "antwoord": "Johannes Gutenberg"
+    },
+    {
+    "id":505,
+    "soort": "G",
+    "vraag":"Tussen welke twee landen werd de Honderdjarige Oorlog uitgevochten?",
+    "antwoord": "Frankrijk en Engeland"
+    },
+    {
+    "id":506,
+    "soort": "C",
+    "vraag":"Wie schilderde de Sixtijnse Kapel?",
+    "antwoord": "Michelangelo"
+    },
+    {
+    "id":507,
+    "soort": "G",
+    "vraag":"In welk modern land bestond de oude Maya-beschaving?",
+    "antwoord": "Guatemala"
+    },
+    {
+    "id":508,
+    "soort": "G",
+    "vraag":"Welke dictator leidde tot de opkomst van de Cubaanse revolutie?",
+    "antwoord": "Fidel Castro"
+    },
+    {
+    "id":509,
+    "soort": "G",
+    "vraag":"Welke Japanse stad werd samen met Hiroshima, Japan, in 1945 getroffen door een atoombom?",
+    "antwoord": "Nagasaki"
+    },
+    {
+    "id":510,
+    "soort": "W",
+    "vraag":"Welke menselijke voorouder ontdekte als eerste vuur?",
+    "antwoord": "Homo Erectus"
+    },
+    {
+    "id":511,
+    "soort": "G",
+    "vraag":"Waar was Cleopatra's geboorteplaats?",
+    "antwoord": "Griekenland"
+    },
+    {
+    "id":512,
+    "soort": "W",
+    "vraag":"Geef 1 element dat Marie Curie heeft ontdekt.",
+    "antwoord": "Polonium en Radium"
+    },
+    {
+    "id":513,
+    "soort": "G",
+    "vraag":"Welke Argentijn werd een opmerkelijke figuur in de Cubaanse revolutie?",
+    "antwoord": "Che Guevara"
+    },
+    {
+    "id":514,
+    "soort": "G",
+    "vraag":"Naar welk land stuurde Engeland tussen 1788 en 1868 veroordeelden?",
+    "antwoord": "Australië"
+    },
+    {
+    "id":515,
+    "soort": "G",
+    "vraag":"Wie leidde de USSR tijdens de Tweede Wereldoorlog?",
+    "antwoord": "Joseph Stalin"
+    },
+    {
+    "id":516,
+    "soort": "C",
+    "vraag":"Welke filmster trouwde op 18 april 1956 met de Prins van Monaco?",
+    "antwoord": "Grace Kelly"
+    },
+    {
+    "id":517,
+    "soort": "G",
+    "vraag":"Van welk land hebben de Verenigde Staten Alaska verkregen?",
+    "antwoord": "Rusland"
+    },
+    {
+    "id":518,
+    "soort": "G",
+    "vraag":"Wat is de naam van het eiland waarnaar Napoleon werd verbannen?",
+    "antwoord": "Elba"
+    },
+    {
+    "id":519,
+    "soort": "G",
+    "vraag":"Wie was de stichter van het Mongoolse rijk?",
+    "antwoord": "Genghis Khan"
+    },
+    {
+    "id":520,
+    "soort": "G",
+    "vraag":"In welk land is het boeddhisme ontstaan?",
+    "antwoord": "Nepal"
+    },
+    {
+    "id":521,
+    "soort": "A",
+    "vraag":"Welke stad was de hoofdstad van het Ottomaanse Rijk?",
+    "antwoord": "Constantinopel"
+    },
+    {
+    "id":522,
+    "soort": "G",
+    "vraag":"Wie was de koning van Frankrijk tijdens de Franse Revolutie?",
+    "antwoord": "Lodewijk XVI (16de)"
+    },
+    {
+    "id":523,
+    "soort": "G",
+    "vraag":"Welk boek werd in de jaren twintig door Hitler geschreven toen hij in de gevangenis zat?",
+    "antwoord": "Mein Kampf"
+    },
+    {
+    "id":524,
+    "soort": "C",
+    "vraag":"In 1981 toonde MTV zijn eerste muziekvideo. Wat was het?",
+    "antwoord": "'Video Killed the Radio Star' van The Buggles"
+    },
+    {
+    "id":525,
+    "soort": "W",
+    "vraag":"Wie heeft de stoommachine uitgevonden?",
+    "antwoord": "George Stephenson"
+    },
+    {
+    "id":526,
+    "soort": "G",
+    "vraag":"Vanuit welke stad vertrok de Titanic?",
+    "antwoord": "South Hampton"
+    },
+    {
+    "id":527,
+    "soort": "G",
+    "vraag":"In welk jaar werd Nelson Mandela vrijgelaten uit de gevangenis?",
+    "antwoord": "1990"
+    },
+    {
+    "id":528,
+    "soort": "G",
+    "vraag":"Het Vrijheidsbeeld was een geschenk uit welk land?",
+    "antwoord": "Frankrijk"
+    },
+    {
+    "id":529,
+    "soort": "N",
+    "vraag":"Wat voor dier gebruikte Cleopatra om zelfmoord te plegen?",
+    "antwoord": "Een slang"
+    },
+    {
+    "id":530,
+    "soort": "G",
+    "vraag":"Wie is de Griekse godin van de overwinning?",
+    "antwoord": "Nike"
+    },
+    {
+    "id":531,
+    "soort": "W",
+    "vraag":"Van welke taal is de naam 'Australië' afgeleid?",
+    "antwoord": "Latijn"
+    },
+    {
+    "id":532,
+    "soort": "G",
+    "vraag":"In welk jaar werden de Verenigde Naties opgericht?",
+    "antwoord": "1945"
+    },
+    {
+    "id":533,
+    "soort": "G",
+    "vraag":"In welk jaar zonk de Titanic?",
+    "antwoord": "1912"
+    },
+    {
+    "id":534,
+    "soort": "G",
+    "vraag":"Welk land legaliseerde als eerste het homohuwelijk?",
+    "antwoord": "Nederland"
+    },
+    {
+    "id":535,
+    "soort": "G",
+    "vraag":"Wie was de eerste Afro-Amerikaan die tot president van de Verenigde Staten werd gekozen?",
+    "antwoord": "Barak Obama"
+    },
+    {
+    "id":536,
+    "soort": "G",
+    "vraag":"Wat is de naam van de eerste piramide die ooit is gebouwd?",
+    "antwoord": "De piramide van Djoser (trappenpiramide)"
+    },
+    {
+    "id":537,
+    "soort": "C",
+    "vraag":"Waar werd het eerste Disney-park gebouwd?",
+    "antwoord": "Californië (, Anaheim)"
+    },
+    {
+    "id":538,
+    "soort": "W",
+    "vraag":"Wat is de diepste oceaan ter wereld?",
+    "antwoord": "Stille Oceaan"
+    },
+    {
+    "id":539,
+    "soort": "W",
+    "vraag":"In welk land staat de beschadigde kerncentrale van Tsjernobyl?",
+    "antwoord": "Oekraïne"
+    },
+    {
+    "id":540,
+    "soort": "W",
+    "vraag":"Wat is het hoofdbestanddeel van aardgas?",
+    "antwoord": "Methaan"
+    },
+    {
+    "id":541,
+    "soort": "W",
+    "vraag":"Hoeveel karaat is puur goud?",
+    "antwoord": "24"
+    },
+    {
+    "id":542,
+    "soort": "W",
+    "vraag":"Welke radioactieve stof komt soms van nature voor in bronwater?",
+    "antwoord": "Radon"
+    },
+    {
+    "id":543,
+    "soort": "W",
+    "vraag":"Delphinus delphis is de wetenschappelijke naam voor welk wezen?",
+    "antwoord": "Dolfijn"
+    },
+    {
+    "id":544,
+    "soort": "W",
+    "vraag":" 'Acer' is de Latijnse naam voor welke boom?",
+    "antwoord": "Esdoorn"
+    },
+    {
+    "id":545,
+    "soort": "N",
+    "vraag":"Van welk continent komt de Avocado?",
+    "antwoord": "Zuid-Amerika"
+    },
+    {
+    "id":546,
+    "soort": "N",
+    "vraag":"Hoeveel tanden heeft een volwassen kat normaal?",
+    "antwoord": "30"
+    },
+    {
+    "id":547,
+    "soort": "N",
+    "vraag":"Van welk continent komt de limoen?",
+    "antwoord": "Azie"
+    },
+    {
+    "id":548,
+    "soort": "N",
+    "vraag":"Wat is het nationale gerecht van Algerije?",
+    "antwoord": "Couscous"
+    },
+    {
+    "id":549,
+    "soort": "N",
+    "vraag":"Op welk eiland ligt de vulkaan Hekla?",
+    "antwoord": "Ijsland"
+    },
+    {
+    "id":550,
+    "soort": "N",
+    "vraag":"Hoeveel rijen snorharen, aan elke kant, heeft een kat gewoonlijk?",
+    "antwoord": "4"
+    }
+    ]
