@@ -40,9 +40,33 @@ export default function Home() {
     <div className={styles.background}>
       <div className={styles.container}>
         <Head>
-          <title>Boardgame - vragen</title>
-          <meta name="description" content="boardgame questions" />
-          <link rel="icon" href="/favicon.ico" />
+          <title>Boardgame - Dutch Quiz Questions</title>
+          <link rel="icon" href="/icon.svg" />
+          <meta charset="utf-8"/>
+          <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+          <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
+          <meta name="description" content="Description"/>
+          <meta name="keywords" content="boardgame quiz cards questions answers categories bordspel trivia vragen antwoorden categorieen kaarten kaartjes speelkaarten playing play game spel natuurkunde geschiedenis wetenschap aarderijkskunde culture movies films muziek art schilder kunst geography history nature sience"/>
+          <meta name="theme-color" content="#dfbc90"/>
+          <meta name="mobile-web-app-capable" content="yes"/>
+          <meta name="apple-mobile-web-app-title" content="Boardgame - Dutch Quiz Questions"/>
+          <meta name="apple-mobile-web-app-capable" content="yes"/>
+          <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+          <meta name="msapplication-navbutton-color" content="white"/>
+          <meta name="msapplication-TileColor" content="#dfbc90"/>
+          <meta name="msapplication-TileImage" content="/icon.svg"/>
+          {/* <meta name="msapplication-config" content="browserconfig.xml"/> */}
+          <meta name="application-name" content="Boardgame - Dutch Quiz Questions"/>
+          <meta name="msapplication-tooltip" content="Draw questions out of 5 categories"/>
+          <meta name="msapplication-starturl" content="/"/>
+          <meta name="msapplication-tap-highlight" content="no"/>
+          <meta name="full-screen" content="yes"/>
+          <meta name="browsermode" content="application"/>
+          <meta name="nightmode" content="disable"/>
+          <meta name="viewport" content="uc-fitscreen=yes"/>
+          <meta name="layoutmode" content="fitscreen/standard"/>
+          <meta name="imagemode" content="force"/>
+          <meta name="screen-orientation" content="portrait"/>
         </Head>
         
           { currentQuestion==null ?
