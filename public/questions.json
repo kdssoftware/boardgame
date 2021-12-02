@@ -3346,5 +3346,125 @@
     "soort": "N",
     "vraag":"Welk fruit is het goedkoopst en populairste?",
     "antwoord": "Een banaan"
+    },
+    {
+    "id":562,
+    "soort": "G",
+    "vraag":"In welke jaar is prinses Diana gestorven?",
+    "antwoord": "1997"
+    },
+    {
+    "id":563,
+    "soort": "G",
+    "vraag":"In welke jaar is Amerika ontdenkt door Columbus?",
+    "antwoord": "1492"
+    },
+    {
+    "id":564,
+    "soort": "G",
+    "vraag":"Waar werd Jezus geboren?",
+    "antwoord": "Bethlehem"
+    },
+    {
+    "id":565,
+    "soort": "G",
+    "vraag":"De piramide van welke farao is het grootste in Egypte?",
+    "antwoord": "Piramide van Khufu"
+    },
+    {
+    "id":566,
+    "soort": "G",
+    "vraag":"Wat was de bijnaam van de Franse koning Lodewijk XIV?",
+    "antwoord": "Zonnekoning"
+    },
+    {
+    "id":567,
+    "soort": "G",
+    "vraag":"Hoe heette de fascistische dictator van Italië?",
+    "antwoord": "Benito Musselini"
+    },
+    {
+    "id":568,
+    "soort": "G",
+    "vraag":"Hoe heette vroeger de huidige stad Istanbul?",
+    "antwoord": "Constantinopel"
+    },
+    {
+    "id":569,
+    "soort": "G",
+    "vraag":"Wanneer is Kosovo onafhankelijk verklaard?",
+    "antwoord": "2008"
+    },
+    {
+    "id":570,
+    "soort": "A",
+    "vraag":"Wat is de hoofdstad van Turkije?",
+    "antwoord": "Ankara"
+    },
+    {
+    "id":571,
+    "soort": "A",
+    "vraag":"In welke Franse stad ligt het bosgebied Bois Notre Dame?",
+    "antwoord": "Parijs"
+    },
+    {
+    "id":572,
+    "soort": "A",
+    "vraag":"Welke Koreaanse land is het grootst?",
+    "antwoord": "Noord-Korea"
+    },
+    {
+    "id":573,
+    "soort": "A",
+    "vraag":"Wat is het officiële dier van Canada?",
+    "antwoord": "Bever"
+    },
+    {
+    "id":574,
+    "soort": "A",
+    "vraag":"Hoe heet een heel koude deel van Rusland?",
+    "antwoord": "Siberië"
+    },
+    {
+    "id":575,
+    "soort": "A",
+    "vraag":"Hoe heet de woestijnachtig gebied in Mexico?",
+    "antwoord": "Sonora"
+    },
+    {
+    "id":576,
+    "soort": "A",
+    "vraag":"In welk halfrond worden de meeste dinosaurus-skeletten gevonden?",
+    "antwoord": "Noordelijk halfrond"
+    },
+    {
+    "id":577,
+    "soort": "A",
+    "vraag":"In welk land wonen de Basken?",
+    "antwoord": "Spanje"
+    },
+    {
+    "id":578,
+    "soort": "G",
+    "vraag":"Hoe heette Iran vroeger?",
+    "antwoord": "Perzië"
+    },
+    {
+    "id":579,
+    "soort": "A",
+    "vraag":"Gaat de zon sneller onder in Albanië, Italië of Kameroen?",
+    "antwoord": "Kameroen"
+    },
+    {
+    "id":580,
+    "soort": "A",
+    "vraag":"Hoeveel continenten zijn er?",
+    "antwoord": "7"
+    },
+    {
+    "id":581,
+    "soort": "A",
+    "vraag":"Hoeveel tijdzones zijn er in de hele wereld?",
+    "antwoord": "24"
     }
     ]
