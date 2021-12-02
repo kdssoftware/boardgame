@@ -63,7 +63,6 @@ export default function Home() {
           <meta name="full-screen" content="yes"/>
           <meta name="browsermode" content="application"/>
           <meta name="nightmode" content="disable"/>
-          <meta name="viewport" content="uc-fitscreen=yes"/>
           <meta name="layoutmode" content="fitscreen/standard"/>
           <meta name="imagemode" content="force"/>
           <meta name="screen-orientation" content="portrait"/>
