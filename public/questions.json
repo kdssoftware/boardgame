@@ -3286,5 +3286,65 @@
     "soort": "N",
     "vraag":"Hoeveel rijen snorharen, aan elke kant, heeft een kat gewoonlijk?",
     "antwoord": "4"
+    },
+    {
+    "id":551,
+    "soort": "C",
+    "vraag":"Wie speelde de vrouwelijke hoofdrol in de film 'The Wizard of Oz'?",
+    "antwoord": "Judy garland"
+    },
+    {
+    "id":552,
+    "soort": "C",
+    "vraag":"Wie speelde de mannelijke hoofdrol n de film 'From Russia With Love'?",
+    "antwoord": "Sean Connery"
+    },
+    {
+    "id":553,
+    "soort": "C",
+    "vraag":"Wie speelde de vrouwelijke hoofdrol in de originele film van 'Mary Poppins' uit 1964?",
+    "antwoord": "Julie Andrews"
+    },
+    {
+    "id":554,
+    "soort": "C",
+    "vraag":"Welke film had een liedje dat heet 'Do-Re-Mi' in de soundtrack?",
+    "antwoord": "The Sound of Music"
+    },
+    {
+    "id":556,
+    "soort": "C",
+    "vraag":"In welk decenia kwam de originele film 'A star is born' uit? ",
+    "antwoord": "jaren '30 (1937)"
+    },
+    {
+    "id":557,
+    "soort": "C",
+    "vraag":"In welke stad speelde de film 'West Side Story's zich af?",
+    "antwoord": "New York"
+    },
+    {
+    "id":558,
+    "soort": "C",
+    "vraag":"Wie speelde de mannelijke hoofdrol speler in de film 'The good, the bad and the ugly'?",
+    "antwoord": "Clint Eastwood"
+    },
+    {
+    "id":558,
+    "soort": "C",
+    "vraag":"Wie speelde de vrouwelijke hoofdrol in de film 'Pulp Fiction'?",
+    "antwoord": "Uma Thurman"
+    },
+    {
+    "id":560,
+    "soort": "N",
+    "vraag":"Welke kleur hebben de zwarte strepen van een zebra, bij de eerste 6 maanden na de geboorte?",
+    "antwoord": "Bruin"
+    },
+    {
+    "id":561,
+    "soort": "N",
+    "vraag":"Welk fruit is het goedkoopst en populairste?",
+    "antwoord": "Een banaan"
     }
     ]

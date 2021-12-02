@@ -1,9 +1,11 @@
 .card{
   width: 171px;
   height: 250px;
-  border-radius: 10px;
+  border-radius: 2vmin;
+  transform-style: preserve-3d;
+  box-shadow: 1vmin 0vmin 2vmin rgb(0 0 0 / 19%), inset 3px -4px 0px 0px rgb(88 88 88 / 65%);
   background-color: #fff;
-  box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+  /* box-shadow: 0px 0px 10px rgba(0,0,0,0.5); */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -11,6 +13,20 @@
   padding: 15px;
   margin: 10px;
   cursor: pointer;
+  transition: transform 0.35s ease-out, box-shadow 0.35s ease-out; 
+}
+.bgFront{
+  position: absolute;
+  width: 200px;
+  height: 300px;
+}
+.card.front{
+  width: 200px;
+  height: 300px;
+}
+.card.back:hover{
+  box-shadow: -0.5vmin 4vmin 3vmin rgb(0 0 0 / 10%), inset -5px 3px 0px 0px rgb(92 92 92 / 44%);
+  transform: rotateX( 7deg) rotateZ( 4deg) rotateY( 23deg) translateZ(0px) rotateX( 9deg);
 }
 .question,.answer{
   text-align: center;
@@ -20,6 +36,7 @@
 .question{
   margin-top: 15px;
   font-size: large;
+  font-weight: 600;
 }
 .answer{
   margin-bottom: 15px;
@@ -30,6 +47,7 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  margin: 25px 25px;
 }
 
 .soort{
@@ -46,43 +64,68 @@
 }
 
 .soortA{
+  background: repeating-conic-gradient(#2d51b6 0% 25%, transparent 0% 50%) 50% / 20px 20px;
   background-color: #2747a0;
 }
 .soortA_img{
   mask: url(/soortA.svg) no-repeat center;
   background-color:#fff;
 }
+.bgA{
+  mask: url(/soortA.svg) no-repeat center;
+  background-color:#2747a02a;
+}
 
 .soortC{
+  background: repeating-conic-gradient(#c728bf 0% 25%, transparent 0% 50%) 50% / 20px 20px;
   background-color: #b625af;
 }
 .soortC_img{
   mask: url(/soortC.svg) no-repeat center;
   background-color:#fff;
 }
+.bgC{
+  mask: url(/soortC.svg) no-repeat center;
+  background-color:#b625af14;
+}
 
 .soortG{
+  background: repeating-conic-gradient(#c4b31f 0% 25%, transparent 0% 50%) 50% / 20px 20px;
   background-color: #ac9d1c;
 }
 .soortG_img{
   mask: url(/soortG.svg) no-repeat center;
   background-color:#fff;
 }
+.bgG{
+  mask: url(/soortG.svg) no-repeat center;
+  background-color:#ac9d1c14;
+}
 
 .soortN{
+  background: repeating-conic-gradient(#2aac5c 0% 25%, transparent 0% 50%) 50% / 20px 20px;
   background-color: #228d4b;
 }
 .soortN_img{
   mask: url(/soortN.svg) no-repeat center;
   background-color:#fff;
 }
+.bgN{
+  mask: url(/soortN.svg) no-repeat center;
+  background-color:#228d4b14;
+}
 
 .soortW{
+  background: repeating-conic-gradient(#b42d38 0% 25%, transparent 0% 50%) 50% / 20px 20px;
   background-color: #92242d;
 }
 .soortW_img{
   mask: url(/soortW.svg) no-repeat center;
   background-color:#fff;
+}
+.bgW{
+  mask: url(/soortW.svg) no-repeat center;
+  background-color:#92242d14;
 }
 
 .background{

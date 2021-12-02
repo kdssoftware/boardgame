@@ -54,7 +54,8 @@ export default function Home() {
                   </div>
                 )
         :
-            <div className={styles.card} onClick={flipCard}>
+            <div className={styles.card+" "+styles.front} onClick={flipCard}>
+              <div className={styles["bg"+currentSoort]+" "+styles.bgFront}></div>
               <div className={styles.question}>
                 {questions[currentQuestion]?.vraag}
               </div>
