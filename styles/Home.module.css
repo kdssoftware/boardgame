@@ -15,6 +15,16 @@
   cursor: pointer;
   transition: transform 0.35s ease-out, box-shadow 0.35s ease-out; 
 }
+/* screens of 450px width or less */
+@media screen and (max-width: 450px) {
+  .card{
+    width: 150px;
+    height: 150px;
+  }
+  .soort_img{
+    mask-size: 50% !important;
+  }
+}
 .bgFront{
   position: absolute;
   width: 200px;
