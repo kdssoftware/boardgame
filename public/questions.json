@@ -3466,5 +3466,143 @@
     "soort": "A",
     "vraag":"Hoeveel tijdzones zijn er in de hele wereld?",
     "antwoord": "24"
+    },
+    {
+    "id":582,
+    "soort": "W",
+    "vraag":"Welk element heeft Ne als chemisch symbool?",
+    "antwoord": "Neon"
+    },
+    {
+    "id":583,
+    "soort": "W",
+    "vraag":"Welk element heeft Mg als chemisch symbool?",
+    "antwoord": "Magnesium"
+    },
+    {
+    "id":584,
+    "soort": "W",
+    "vraag":"Welk element heeft He als chemisch symbool?",
+    "antwoord": "ssss"
+    },
+    {
+    "id":585,
+    "soort": "W",
+    "vraag":"Welk element heeft Si als chemisch symbool?",
+    "antwoord": "Silicium"
+    },
+    {
+    "id":586,
+    "soort": "W",
+    "vraag":"Welk element heeft Ar als chemisch symbool?",
+    "antwoord": "Argon"
+    },
+    {
+    "id":587,
+    "soort": "W",
+    "vraag":"Welk element heeft Ni als chemisch symbool?",
+    "antwoord": "Nikkel"
+    },
+    {
+    "id":588,
+    "soort": "W",
+    "vraag":"Welk element heeft Ga als chemisch symbool?",
+    "antwoord": "Gallium"
+    },
+    {
+    "id":589,
+    "soort": "W",
+    "vraag":"Welk element heeft He als chemisch symbool?",
+    "antwoord": "ssss"
+    },
+    {
+    "id":590,
+    "soort": "W",
+    "vraag":"Welk element heeft Kr als chemisch symbool?",
+    "antwoord": "Krypton"
+    },
+    {
+    "id":591,
+    "soort": "W",
+    "vraag":"Welk element heeft Rh als chemisch symbool?",
+    "antwoord": "Rodium"
+    },
+    {
+    "id":592,
+    "soort": "W",
+    "vraag":"Welk element heeft Pb als chemisch symbool?",
+    "antwoord": "Lood"
+    },
+    {
+    "id":593,
+    "soort": "W",
+    "vraag":"Welk element heeft Hg als chemisch symbool?",
+    "antwoord": "Kwik"
+    },
+    {
+    "id":594,
+    "soort": "W",
+    "vraag":"Welk element heeft Po als chemisch symbool?",
+    "antwoord": "Polonium"
+    },
+    {
+    "id":595,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool (afkorting) van  Radon",
+    "antwoord": "Rn"
+    },
+    {
+    "id":596,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool (afkorting) van  ijzer",
+    "antwoord": "Fe"
+    },
+    {
+    "id":597,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool (afkorting) van  Chroom",
+    "antwoord": "Cr"
+    },
+    {
+    "id":598,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool (afkorting) van  Koper",
+    "antwoord": "Cu"
+    },
+    {
+    "id":599,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool (afkorting) van  Waterstof",
+    "antwoord": "H"
+    },
+    {
+    "id":600,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool (afkorting) van  Stikstof",
+    "antwoord": "N"
+    },
+    {
+    "id":601,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool (afkorting) van  Zuurstof",
+    "antwoord": "O"
+    },
+    {
+    "id":602,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool (afkorting) van  Kobalt",
+    "antwoord": "Co"
+    },
+    {
+    "id":603,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool (afkorting) van  Wolfraam",
+    "antwoord": "W"
+    },
+    {
+    "id":604,
+    "soort": "W",
+    "vraag":"Wat is het chemische symbool (afkorting) van  Fosfor",
+    "antwoord": "P"
     }
     ]
