@@ -852,6 +852,12 @@
     "antwoord": "De slag bij Waterloo"
     },
     {
+    "id":142,
+    "soort": "N",
+    "vraag":"Hoe heet een groep mieren?",
+    "antwoord": "Een kolonie"
+    },
+    {
     "id":143,
     "soort": "C",
     "vraag":"Wat was de naam van de rockband gevormd door Jimmy Page?",
@@ -1908,6 +1914,12 @@
     "antwoord": "Anaconda"
     },
     {
+    "id":319,
+    "soort": "N",
+    "vraag":"Welke vogel behorende tot de reigerachtigen werd in het Oude Egypte vereerd?",
+    "antwoord": "Ibis"
+    },
+    {
     "id":320,
     "soort": "N",
     "vraag":"Hoe heet het larvenstadium van een kikker?",
@@ -2452,6 +2464,12 @@
     "soort": "N",
     "vraag":"Uit welk land is de Byrek een traditioneel gerecht?",
     "antwoord": "Albanië"
+    },
+    {
+    "id":411,
+    "soort": "N",
+    "vraag":"Welk dier legt de grootste eieren van de wereld?",
+    "antwoord": "Struisvogel"
     },
     {
     "id":412,
@@ -3312,6 +3330,12 @@
     "antwoord": "The Sound of Music"
     },
     {
+    "id":555,
+    "soort": "N",
+    "vraag":"Hoeveel poten heeft een duizendpoot?",
+    "antwoord": "42"
+    },
+    {
     "id":556,
     "soort": "C",
     "vraag":"In welk decenia kwam de originele film 'A star is born' uit? ",
@@ -3326,14 +3350,14 @@
     {
     "id":558,
     "soort": "C",
-    "vraag":"Wie speelde de mannelijke hoofdrol speler in de film 'The good, the bad and the ugly'?",
-    "antwoord": "Clint Eastwood"
-    },
-    {
-    "id":558,
-    "soort": "C",
     "vraag":"Wie speelde de vrouwelijke hoofdrol in de film 'Pulp Fiction'?",
     "antwoord": "Uma Thurman"
+    },
+    {
+    "id":559,
+    "soort": "C",
+    "vraag":"Wie speelde de mannelijke hoofdrol speler in de film 'The good, the bad and the ugly'?",
+    "antwoord": "Clint Eastwood"
     },
     {
     "id":560,
@@ -3604,5 +3628,179 @@
     "soort": "W",
     "vraag":"Wat is het chemische symbool (afkorting) van  Fosfor",
     "antwoord": "P"
+    },
+    {
+    "id":605,
+    "soort": "W",
+    "vraag":"Henry Cavendish, een Brits natuurkundige en scheikundige, ontdekte welk chemisch element?",
+    "antwoord": "Waterstof"
+    },
+    {
+    "id":606,
+    "soort": "N",
+    "vraag":"Wat is een monocarpische plant?",
+    "antwoord": "Na de bloei sterft de plant af"
+    },
+    {
+    "id":607,
+    "soort": "N",
+    "vraag":"Waarvan is de duif het symbool?",
+    "antwoord": "Vrede"
+    },
+    {
+    "id":608,
+    "soort": "N",
+    "vraag":"Wat is een ander woord voor het Zuid-Afrikaanse wildebeest?",
+    "antwoord": "Gnoe"
+    },
+    {
+    "id":609,
+    "soort": "N",
+    "vraag":"Welk soort dier is een zilverrug?",
+    "antwoord": "Gorilla"
+    },
+    {
+    "id":610,
+    "soort": "N",
+    "vraag":"Van welke boom staat er een blad op de Canadese vlag?",
+    "antwoord": "Esdoorn"
+    },
+    {
+    "id":611,
+    "soort": "N",
+    "vraag":"Welke paddestoelen groeien onder de grond en worden gezocht door varkens",
+    "antwoord": "Truffels"
+    },
+    {
+    "id":612,
+    "soort": "N",
+    "vraag":"Wat is de grootste soort van de tijger?",
+    "antwoord": "Siberische tijger"
+    },
+    {
+    "id":613,
+    "soort": "N",
+    "vraag":"Hoeveel tenen heeft een hond in totaal?",
+    "antwoord": "18"
+    },
+    {
+    "id":614,
+    "soort": "N",
+    "vraag":"Welk dier in de Griekse oudheid kreeg de 100 ogen van Argus",
+    "antwoord": "Een pauw"
+    },
+    {
+    "id":615,
+    "soort": "N",
+    "vraag":"Drinken meeuwen zeewater?",
+    "antwoord": "Ja"
+    },
+    {
+    "id":616,
+    "soort": "N",
+    "vraag":"Welk fruit waren de gouden appels uit de Griekse mythologie?",
+    "antwoord": "Abrikozen"
+    },
+    {
+    "id":617,
+    "soort": "N",
+    "vraag":"Welke vitamines zitten er in margarine?",
+    "antwoord": "Vitamine A en D"
+    },
+    {
+    "id":618,
+    "soort": "N",
+    "vraag":"Welk zoogdier is het enige dat kan vliegen?",
+    "antwoord": "Een Vleermuis"
+    },
+    {
+    "id":619,
+    "soort": "N",
+    "vraag":"Wat is de gebruikelijkere naam van een Japans dwergboompje?",
+    "antwoord": "Bonsai"
+    },
+    {
+    "id":620,
+    "soort": "N",
+    "vraag":"Welke Indonesische aap heeft een naam die letterlijk 'bosmens' betekent?",
+    "antwoord": "Een orang-oetan"
+    },
+    {
+    "id":621,
+    "soort": "N",
+    "vraag":"Hoe heet de vrucht van een roos?",
+    "antwoord": "Rozenbottel"
+    },
+    {
+    "id":622,
+    "soort": "N",
+    "vraag":"Welk zoogdier wordt rood van het zweten?",
+    "antwoord": "Een nijlpaard"
+    },
+    {
+    "id":623,
+    "soort": "N",
+    "vraag":"Welk dier wordt wel eens woudgiraf genoemd?",
+    "antwoord": "Een okapi"
+    },
+    {
+    "id":624,
+    "soort": "N",
+    "vraag":"Van welk dier uitgezonderd de melkkoe, wordt het vrouwtje ook nog koe genoemd?",
+    "antwoord": "Een olifant"
+    },
+    {
+    "id":625,
+    "soort": "N",
+    "vraag":"Wat is na de mens, het langstlevende landzoogdier?",
+    "antwoord": "Een olifant"
+    },
+    {
+    "id":626,
+    "soort": "N",
+    "vraag":"Hoe heet witte materiaal dat voornamelijk van slagtanden afkomstig is?",
+    "antwoord": "Ivoor"
+    },
+    {
+    "id":627,
+    "soort": "N",
+    "vraag":"Wat eet een panda beer?",
+    "antwoord": "Bamboe"
+    },
+    {
+    "id":628,
+    "soort": "N",
+    "vraag":"Welke olifant heeft de grootste oren, de Afrikaanse of de Indische?",
+    "antwoord": "De Afrikaanse"
+    },
+    {
+    "id":629,
+    "soort": "N",
+    "vraag":"Welke boom heeft zilvergrijze bladeren en witte bast?",
+    "antwoord": "Een berk"
+    },
+    {
+    "id":630,
+    "soort": "N",
+    "vraag":"Welk dier heeft de hoogste bloeddruk?",
+    "antwoord": "Een giraf"
+    },
+    {
+    "id":631,
+    "soort": "N",
+    "vraag":"Welke vlinder heeft dezelfde naam als een vrucht?",
+    "antwoord": "Een citroenvlinder"
+    },
+    {
+    "id":632,
+    "soort": "N",
+    "vraag":"Welke vogel jaagt in het donker?",
+    "antwoord": "Een uil"
+    },
+    {
+    "id":633,
+    "soort": "N",
+    "vraag":"Wat is de nationale bloem van Oostenrijk?",
+    "antwoord": "Een edelweiss"
     }
     ]
