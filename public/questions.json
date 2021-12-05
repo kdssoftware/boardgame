@@ -3808,5 +3808,186 @@
     "soort": "G",
     "vraag" : "Uit welk was Beethoven geboren?",
     "antwoord": "Oosterijk"
+    },
+    {
+    "id":635,
+    "soort": "C",
+    "vraag" : "Wat was Celine Dion haar best verkocht lied?",
+    "antwoord": "My Heart Will Go On?"
+    },
+    {
+    "id":636,
+    "soort": "C",
+    "vraag" : "Van welke bekende artiest kwam het lied 'Blinding Lights'?",
+    "antwoord": "The weekend"
+    },
+    {
+    "id":637,
+    "soort": "C",
+    "vraag" : "Van welke bekende artiest kwam het lied 'I Gotta Feeling'?",
+    "antwoord": "The Black Eyed Peas"
+    },
+    {
+    "id":638,
+    "soort": "C",
+    "vraag" : "Welk lied heeft de band 'Los Del Rio' in 1997 uitgebracht dat wereldberoemd werd.",
+    "antwoord": "Macarena"
+    },
+    {
+    "id":639,
+    "soort": "C",
+    "vraag" : "Van welke bekende artiest kwam het lied 'Shape of you'?",
+    "antwoord": "Ed Sheeran"
+    },
+    {
+    "id":640,
+    "soort": "C",
+    "vraag" : "Van welke bekende band kwam het lied 'Being For The Benefit Of Mr Kite!'?",
+    "antwoord": "The Beatles"
+    },
+    {
+    "id":641,
+    "soort": "C",
+    "vraag" : "Van welke bekende band kwam het lied 'Eight Days A Week'?",
+    "antwoord": "The Beatles"
+    },
+    {
+    "id":642,
+    "soort": "C",
+    "vraag" : "Van welke bekende band kwam het lied 'Here, There And Everywhere'?",
+    "antwoord": "The Beatles"
+    },
+    {
+    "id":643,
+    "soort": "C",
+    "vraag" : "Van welke bekende band kwam het lied 'Mailman, Bring Me No More Blues'?",
+    "antwoord": "The Beatles"
+    },
+    {
+    "id":644,
+    "soort": "C",
+    "vraag" : "Van welke bekende band kwam het lied 'She Came In Through The Bathroom Window'?",
+    "antwoord": "The Beatles"
+    },
+    {
+    "id":645,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het lied 'Die Another Day'?",
+    "antwoord": "Madonna"
+    },
+    {
+    "id":646,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het lied 'Toxic'?",
+    "antwoord": "Britney Spears"
+    },
+    {
+    "id":647,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het lied 'Saturday Night's Alright'?",
+    "antwoord": "Elton John"
+    },
+    {
+    "id":648,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het lied \"I'm still standing'\"?",
+    "antwoord": "Elton John"
+    },
+    {
+    "id":649,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het lied 'Honky cat'?",
+    "antwoord": "Elton John"
+    },
+    {
+    "id":650,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het lied 'Crocodile Rock'?",
+    "antwoord": "Elton John"
+    },
+    {
+    "id":651,
+    "soort": "C",
+    "vraag" : "Van welke bekende band kwam het lied 'Here comes the sun'?",
+    "antwoord": "The Beatles"
+    },
+    {
+    "id":652,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het lied 'Crocodile Rock'?",
+    "antwoord": "Elton John"
+    },
+    {
+    "id":653,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied \"Can't help falling in love\"?",
+    "antwoord": "Elvis Presley"
+    },
+    {
+    "id":654,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Jailhouse rock'?",
+    "antwoord": "Elvis Presley"
+    },
+    {
+    "id":655,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Suspicious Minds'?",
+    "antwoord": "Elvis Presley"
+    },
+    {
+    "id":656,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'In the ghetto'?",
+    "antwoord": "Elvis Presley"
+    },
+    {
+    "id":657,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Always be my baby'?",
+    "antwoord": "Mariah Carey"
+    },
+    {
+    "id":658,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Superstition'?",
+    "antwoord": "Stevie Wonder"
+    },
+    {
+    "id":659,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Love the way you lie'?",
+    "antwoord": "Rihanna (Eminem)"
+    },
+    {
+    "id":660,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied \"Don't stop the music\" in 2007?",
+    "antwoord": "Rihanna"
+    },
+    {
+    "id":661,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Bitch better have my money'?",
+    "antwoord": "Rihanna"
+    },
+    {
+    "id":662,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'We found love' in 2011?",
+    "antwoord": "Rihanna"
+    },
+    {
+    "id":663,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Umbrella' in 2007?",
+    "antwoord": "Rihanna"
+    },
+    {
+    "id":664,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Take a bow' in 2008?",
+    "antwoord": "Rihanna"
     }
     ]
+    
