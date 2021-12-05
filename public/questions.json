@@ -1580,7 +1580,7 @@
     {
     "id":263,
     "soort": "W",
-    "vraag":"Hoe wordt het opvangen van zonne-energie en straling van de zon genoemd?",
+    "vraag":"Welk effect houdt de aarde van nature op temperatuur?",
     "antwoord": "Broeikaseffect"
     },
     {
@@ -3507,7 +3507,7 @@
     "id":584,
     "soort": "W",
     "vraag":"Welk element heeft He als chemisch symbool?",
-    "antwoord": "ssss"
+    "antwoord": "Helium"
     },
     {
     "id":585,
@@ -3537,7 +3537,7 @@
     "id":589,
     "soort": "W",
     "vraag":"Welk element heeft He als chemisch symbool?",
-    "antwoord": "ssss"
+    "antwoord": "Helium"
     },
     {
     "id":590,
@@ -3802,5 +3802,11 @@
     "soort": "N",
     "vraag":"Wat is de nationale bloem van Oostenrijk?",
     "antwoord": "Een edelweiss"
+    },
+    {
+    "id":634,
+    "soort": "G",
+    "vraag" : "Uit welk was Beethoven geboren?",
+    "antwoord": "Oosterijk"
     }
     ]
