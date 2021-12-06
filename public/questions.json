@@ -3994,6 +3994,12 @@
     "soort": "C",
     "vraag" : "Van welke bekende ariest kwam het bekende lied 'So Long, Marianne' in 1967?",
     "antwoord": "Leonard Cohen"
+    },
+    {
+    "id":666,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Stand By Me' in 1962?",
+    "antwoord": "Ben E. King"
     }
     ]
     
