@@ -7,6 +7,7 @@ export default function Home() {
   const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(null);
   const [currentSoort, setCurrentSoort] = useState(null);
+  const [viewAnswer, setViewAnswer] = useState(false);
   const soorten = [
     "A","C","G","N","W"
   ]
@@ -33,6 +34,7 @@ export default function Home() {
   function flipCard() {
     setCurrentSoort(null);
     setCurrentQuestion(null);
+    setViewAnswer(false);
   }
 
   return (
@@ -76,12 +78,14 @@ export default function Home() {
                   </div>
                 )
         :
-            <div className={styles.card+" "+styles.front} onClick={flipCard}>
+            <div className={styles.card+" "+styles.front} onClick={()=>{
+              viewAnswer ? flipCard() : setViewAnswer(true);
+            }}>
               <div className={styles["bg"+currentSoort]+" "+styles.bgFront}></div>
               <div className={styles.question}>
                 {questions[currentQuestion]?.vraag}
               </div>
-              <div className={styles.answer}>
+              <div className={styles.answer} style={{"display":(viewAnswer?"block":"none")}}>
                 {questions[currentQuestion]?.antwoord}
               </div>
             </div>
