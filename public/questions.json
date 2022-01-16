@@ -3988,6 +3988,24 @@
     "soort": "C",
     "vraag" : "Van welke bekende ariest kwam het bekende lied 'Take a bow' in 2008?",
     "antwoord": "Rihanna"
+    },
+    {
+    "id":665,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'So Long, Marianne' in 1967?",
+    "antwoord": "Leonard Cohen"
+    },
+    {
+    "id":666,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Stand By Me' in 1962?",
+    "antwoord": "Ben E. King"
+    },
+    {
+    "id":667,
+    "soort": "C",
+    "vraag" : "Van welke bekende ariest kwam het bekende lied 'Brown Eyed Girl' in 1967?",
+    "antwoord": "Van Morrison"
     }
     ]
     
